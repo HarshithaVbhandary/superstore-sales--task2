@@ -42,13 +42,12 @@ Need to optimize discount strategy to improve profit margins.
 📌 Deliverables:
 Power BI Dashboard (visualizations)
 
-Full Report (PPT file)
 
 This README documentation
 
 📌 How to Use:
 Open the PPT file to review the full analysis report.
 
-Open Power BI to view interactive dashboard (if provided).
+Open Power BI to view interactive dashboard .
 
 Review key insights and recommendations for business decisions.
