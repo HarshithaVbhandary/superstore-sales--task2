@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Country,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-25795,2023-01-01,2023-01-03,Second Class,CUST-8424,Home Office,United States,New York,Texas,West,Furniture,Storage,Product D,701.09,8,0.33,-97.29
+CA-10860,2023-01-02,2023-01-04,Standard Class,CUST-1933,Corporate,United States,Los Angeles,New York,Central,Furniture,Binders,Product B,641.76,1,0.03,-82.62
+CA-86820,2023-01-03,2023-01-05,First Class,CUST-4598,Home Office,United States,Phoenix,New York,Central,Office Supplies,Storage,Product B,327.36,4,0.26,261.59
+CA-64886,2023-01-04,2023-01-06,First Class,CUST-2980,Home Office,United States,Houston,Texas,South,Office Supplies,Chairs,Product D,102.58,4,0.25,111.03
+CA-16265,2023-01-05,2023-01-07,First Class,CUST-4056,Consumer,United States,Phoenix,New York,Central,Office Supplies,Chairs,Product B,432.84,5,0.07,194.36
+CA-92386,2023-01-06,2023-01-08,Standard Class,CUST-9984,Home Office,United States,Houston,New York,Central,Office Supplies,Chairs,Product C,137.47,7,0.46,235.4
+CA-47194,2023-01-07,2023-01-09,Standard Class,CUST-1791,Consumer,United States,Phoenix,Texas,Central,Furniture,Chairs,Product C,948.15,8,0.22,279.83
+CA-97498,2023-01-08,2023-01-10,Second Class,CUST-6390,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Phones,Product B,480.42,6,0.5,247.74
+CA-54131,2023-01-09,2023-01-11,Second Class,CUST-7635,Consumer,United States,Los Angeles,Illinois,South,Office Supplies,Storage,Product D,324.09,1,0.21,93.32
+CA-70263,2023-01-10,2023-01-12,Second Class,CUST-3255,Corporate,United States,Houston,California,West,Furniture,Tables,Product A,768.64,7,0.3,34.39
+CA-26023,2023-01-11,2023-01-13,Same Day,CUST-4610,Corporate,United States,New York,New York,East,Technology,Storage,Product D,502.97,3,0.05,-38.2
+CA-51090,2023-01-12,2023-01-14,First Class,CUST-2607,Consumer,United States,Los Angeles,Texas,Central,Technology,Phones,Product A,316.93,6,0.23,60.13
+CA-77221,2023-01-13,2023-01-15,First Class,CUST-6179,Home Office,United States,New York,New York,West,Furniture,Chairs,Product D,813.85,8,0.12,46.6
+CA-74820,2023-01-14,2023-01-16,Second Class,CUST-7573,Consumer,United States,Los Angeles,Arizona,Central,Technology,Phones,Product B,868.48,7,0.42,123.83
+CA-10769,2023-01-15,2023-01-17,First Class,CUST-1984,Home Office,United States,Los Angeles,New York,Central,Furniture,Binders,Product C,676.28,6,0.39,166.2
+CA-69735,2023-01-16,2023-01-18,Second Class,CUST-6776,Consumer,United States,Phoenix,New York,East,Office Supplies,Binders,Product D,56.49,9,0.41,291.33
+CA-72955,2023-01-17,2023-01-19,Same Day,CUST-4676,Home Office,United States,Houston,Illinois,East,Office Supplies,Storage,Product A,570.66,9,0.36,191.35
+CA-74925,2023-01-18,2023-01-20,Same Day,CUST-4380,Corporate,United States,Houston,Texas,East,Technology,Storage,Product C,765.66,1,0.42,157.5
+CA-77969,2023-01-19,2023-01-21,Standard Class,CUST-9711,Home Office,United States,Los Angeles,New York,Central,Office Supplies,Tables,Product A,145.14,1,0.1,34.04
+CA-15311,2023-01-20,2023-01-22,Same Day,CUST-9782,Consumer,United States,Chicago,Illinois,Central,Technology,Tables,Product B,236.38,1,0.23,-86.2
+CA-93104,2023-01-21,2023-01-23,Second Class,CUST-2050,Corporate,United States,Chicago,California,Central,Technology,Binders,Product C,883.67,8,0.35,15.25
+CA-63707,2023-01-22,2023-01-24,Same Day,CUST-4633,Home Office,United States,New York,Illinois,East,Office Supplies,Chairs,Product A,29.92,7,0.32,207.38
+CA-95305,2023-01-23,2023-01-25,Standard Class,CUST-7342,Home Office,United States,New York,Illinois,South,Office Supplies,Phones,Product D,755.2,3,0.36,-17.89
+CA-38693,2023-01-24,2023-01-26,First Class,CUST-1959,Home Office,United States,Phoenix,Illinois,West,Technology,Tables,Product B,479.04,2,0.11,184.88
+CA-81932,2023-01-25,2023-01-27,Second Class,CUST-7059,Home Office,United States,Los Angeles,New York,South,Office Supplies,Tables,Product B,452.3,4,0.05,131.91
+CA-35658,2023-01-26,2023-01-28,First Class,CUST-9884,Home Office,United States,New York,New York,Central,Furniture,Chairs,Product B,17.03,3,0.46,-31.26
+CA-94478,2023-01-27,2023-01-29,Standard Class,CUST-6655,Corporate,United States,New York,California,Central,Office Supplies,Chairs,Product D,821.2,7,0.28,4.65
+CA-28431,2023-01-28,2023-01-30,Standard Class,CUST-5473,Corporate,United States,Los Angeles,Arizona,South,Office Supplies,Storage,Product D,366.23,8,0.08,98.52
+CA-12747,2023-01-29,2023-01-31,Standard Class,CUST-3946,Corporate,United States,Phoenix,Arizona,Central,Furniture,Phones,Product C,545.36,6,0.4,67.35
+CA-69150,2023-01-30,2023-02-01,First Class,CUST-8725,Corporate,United States,New York,Arizona,West,Office Supplies,Chairs,Product D,680.53,3,0.46,211.43
+CA-75725,2023-01-31,2023-02-02,First Class,CUST-1526,Consumer,United States,Phoenix,California,Central,Office Supplies,Tables,Product C,705.6,6,0.08,193.76
+CA-94654,2023-02-01,2023-02-03,First Class,CUST-4224,Corporate,United States,Houston,Arizona,West,Technology,Tables,Product B,956.42,2,0.41,129.83
+CA-45773,2023-02-02,2023-02-04,First Class,CUST-2875,Home Office,United States,Phoenix,Arizona,South,Office Supplies,Binders,Product C,536.03,7,0.47,228.91
+CA-77435,2023-02-03,2023-02-05,Standard Class,CUST-2763,Home Office,United States,Chicago,Illinois,South,Office Supplies,Chairs,Product A,405.72,7,0.47,125.07
+CA-66886,2023-02-04,2023-02-06,Standard Class,CUST-9712,Corporate,United States,Chicago,New York,Central,Furniture,Storage,Product B,954.17,4,0.46,285.76
+CA-76803,2023-02-05,2023-02-07,Second Class,CUST-6797,Home Office,United States,Phoenix,New York,West,Technology,Phones,Product B,645.69,8,0.27,-13.11
+CA-41551,2023-02-06,2023-02-08,Second Class,CUST-8099,Corporate,United States,Chicago,Illinois,Central,Technology,Storage,Product C,305.17,4,0.18,185.65
+CA-21394,2023-02-07,2023-02-09,First Class,CUST-6109,Home Office,United States,Houston,Illinois,East,Technology,Tables,Product B,135.2,7,0.0,47.98
+CA-79092,2023-02-08,2023-02-10,Same Day,CUST-7644,Consumer,United States,Los Angeles,Illinois,East,Office Supplies,Storage,Product D,844.13,4,0.03,11.59
+CA-13890,2023-02-09,2023-02-11,Same Day,CUST-1116,Consumer,United States,Chicago,New York,East,Technology,Tables,Product A,368.56,5,0.21,-27.85
+CA-51606,2023-02-10,2023-02-12,Standard Class,CUST-3433,Corporate,United States,Chicago,Arizona,East,Furniture,Tables,Product C,663.87,7,0.2,121.0
+CA-90038,2023-02-11,2023-02-13,Standard Class,CUST-6463,Corporate,United States,Phoenix,Illinois,Central,Technology,Tables,Product C,476.11,3,0.09,-13.81
+CA-97313,2023-02-12,2023-02-14,Standard Class,CUST-1583,Corporate,United States,Houston,California,East,Furniture,Tables,Product B,206.94,5,0.2,-19.86
+CA-20627,2023-02-13,2023-02-15,Second Class,CUST-9586,Home Office,United States,Los Angeles,Illinois,West,Technology,Tables,Product D,605.67,3,0.09,296.21
+CA-18792,2023-02-14,2023-02-16,Second Class,CUST-4788,Corporate,United States,Phoenix,Texas,South,Technology,Binders,Product B,70.08,5,0.42,220.7
+CA-83969,2023-02-15,2023-02-17,Standard Class,CUST-5167,Consumer,United States,Phoenix,Illinois,South,Furniture,Storage,Product B,419.21,3,0.15,199.31
+CA-53001,2023-02-16,2023-02-18,Standard Class,CUST-9465,Home Office,United States,Houston,New York,East,Technology,Binders,Product C,551.15,7,0.3,217.62
+CA-86552,2023-02-17,2023-02-19,Standard Class,CUST-2389,Corporate,United States,Los Angeles,Illinois,East,Technology,Binders,Product B,441.69,1,0.25,287.57
+CA-33897,2023-02-18,2023-02-20,Same Day,CUST-9357,Home Office,United States,Houston,Texas,East,Technology,Chairs,Product A,751.19,9,0.03,129.31
+CA-78148,2023-02-19,2023-02-21,Second Class,CUST-7154,Home Office,United States,Los Angeles,California,Central,Office Supplies,Chairs,Product B,829.65,9,0.47,-11.9
+CA-33483,2023-02-20,2023-02-22,Same Day,CUST-6420,Corporate,United States,Houston,Arizona,South,Furniture,Chairs,Product B,773.53,5,0.26,244.88
+CA-58555,2023-02-21,2023-02-23,Same Day,CUST-9920,Home Office,United States,Phoenix,Illinois,East,Technology,Phones,Product C,48.42,9,0.16,197.09
+CA-27159,2023-02-22,2023-02-24,Standard Class,CUST-3043,Consumer,United States,Phoenix,Texas,West,Furniture,Chairs,Product B,202.19,6,0.08,65.72
+CA-90077,2023-02-23,2023-02-25,Standard Class,CUST-5197,Consumer,United States,New York,Texas,East,Furniture,Storage,Product D,541.24,5,0.17,89.43
+CA-45920,2023-02-24,2023-02-26,First Class,CUST-4496,Home Office,United States,Chicago,California,South,Furniture,Binders,Product C,935.47,3,0.01,64.5
+CA-77121,2023-02-25,2023-02-27,First Class,CUST-1778,Corporate,United States,Houston,New York,East,Technology,Storage,Product B,836.61,8,0.18,271.98
+CA-79479,2023-02-26,2023-02-28,Same Day,CUST-1213,Home Office,United States,New York,Illinois,South,Technology,Chairs,Product A,844.11,4,0.27,37.41
+CA-99475,2023-02-27,2023-03-01,Second Class,CUST-4762,Consumer,United States,Chicago,Texas,East,Furniture,Phones,Product A,310.18,3,0.44,285.39
+CA-29457,2023-02-28,2023-03-02,Standard Class,CUST-7731,Home Office,United States,Houston,California,West,Office Supplies,Phones,Product C,435.15,6,0.34,264.11
+CA-76557,2023-03-01,2023-03-03,Standard Class,CUST-4117,Home Office,United States,Los Angeles,Arizona,East,Furniture,Binders,Product C,476.0,8,0.06,152.21
+CA-87189,2023-03-02,2023-03-04,Same Day,CUST-6791,Consumer,United States,Chicago,Texas,West,Office Supplies,Storage,Product B,165.8,9,0.07,131.93
+CA-88953,2023-03-03,2023-03-05,First Class,CUST-9783,Home Office,United States,Phoenix,California,West,Furniture,Tables,Product D,40.76,6,0.21,48.04
+CA-62995,2023-03-04,2023-03-06,Second Class,CUST-3720,Home Office,United States,New York,New York,East,Furniture,Storage,Product B,947.43,5,0.1,-92.66
+CA-50757,2023-03-05,2023-03-07,First Class,CUST-9905,Corporate,United States,Chicago,New York,West,Furniture,Chairs,Product A,248.31,2,0.01,-48.95
+CA-19692,2023-03-06,2023-03-08,First Class,CUST-7047,Corporate,United States,Chicago,Texas,Central,Technology,Tables,Product D,247.55,2,0.4,201.69
+CA-55758,2023-03-07,2023-03-09,First Class,CUST-9032,Consumer,United States,Phoenix,Texas,East,Office Supplies,Phones,Product D,92.55,9,0.01,88.62
+CA-82409,2023-03-08,2023-03-10,First Class,CUST-1001,Consumer,United States,Houston,Illinois,East,Office Supplies,Binders,Product D,929.22,2,0.42,-40.06
+CA-81211,2023-03-09,2023-03-11,Standard Class,CUST-7368,Consumer,United States,Los Angeles,California,West,Furniture,Binders,Product B,583.94,2,0.07,5.58
+CA-75697,2023-03-10,2023-03-12,Standard Class,CUST-2949,Corporate,United States,Phoenix,Texas,West,Technology,Phones,Product A,670.37,3,0.49,279.13
+CA-47065,2023-03-11,2023-03-13,First Class,CUST-7732,Consumer,United States,Los Angeles,Illinois,East,Technology,Chairs,Product C,912.46,3,0.3,46.85
+CA-42606,2023-03-12,2023-03-14,Second Class,CUST-8833,Consumer,United States,Houston,Illinois,Central,Office Supplies,Phones,Product B,352.16,4,0.37,263.07
+CA-21534,2023-03-13,2023-03-15,Same Day,CUST-1917,Consumer,United States,Chicago,Texas,West,Technology,Chairs,Product C,625.29,7,0.06,21.85
+CA-50397,2023-03-14,2023-03-16,Second Class,CUST-4174,Corporate,United States,Los Angeles,New York,West,Office Supplies,Tables,Product D,48.41,9,0.43,117.29
+CA-11016,2023-03-15,2023-03-17,Second Class,CUST-8014,Home Office,United States,New York,California,South,Office Supplies,Phones,Product D,194.9,2,0.42,-91.81
+CA-99789,2023-03-16,2023-03-18,Second Class,CUST-1089,Consumer,United States,New York,California,Central,Office Supplies,Chairs,Product B,832.93,4,0.33,108.75
+CA-65591,2023-03-17,2023-03-19,First Class,CUST-2709,Home Office,United States,Phoenix,New York,Central,Technology,Tables,Product A,769.1,9,0.25,154.78
+CA-99812,2023-03-18,2023-03-20,Standard Class,CUST-4041,Consumer,United States,Houston,Texas,East,Office Supplies,Phones,Product D,357.14,2,0.36,-6.28
+CA-33247,2023-03-19,2023-03-21,Second Class,CUST-1105,Home Office,United States,Phoenix,California,Central,Office Supplies,Binders,Product C,383.04,1,0.0,131.57
+CA-34300,2023-03-20,2023-03-22,First Class,CUST-9619,Corporate,United States,Phoenix,Texas,East,Furniture,Phones,Product C,538.22,8,0.3,158.87
+CA-84065,2023-03-21,2023-03-23,Second Class,CUST-2895,Corporate,United States,Phoenix,Texas,South,Office Supplies,Storage,Product B,10.24,9,0.42,174.75
+CA-92798,2023-03-22,2023-03-24,Second Class,CUST-7090,Consumer,United States,New York,Illinois,Central,Office Supplies,Phones,Product C,248.83,7,0.18,210.56
+CA-19268,2023-03-23,2023-03-25,First Class,CUST-9508,Home Office,United States,New York,New York,West,Furniture,Storage,Product A,216.15,8,0.05,24.54
+CA-96807,2023-03-24,2023-03-26,Standard Class,CUST-7082,Corporate,United States,Phoenix,Texas,South,Furniture,Tables,Product D,257.98,4,0.21,127.11
+CA-22185,2023-03-25,2023-03-27,Standard Class,CUST-1634,Consumer,United States,New York,Arizona,East,Technology,Phones,Product C,807.85,4,0.36,292.63
+CA-73704,2023-03-26,2023-03-28,Same Day,CUST-2925,Consumer,United States,Houston,New York,South,Office Supplies,Tables,Product C,286.88,2,0.05,259.26
+CA-96779,2023-03-27,2023-03-29,First Class,CUST-3056,Corporate,United States,Phoenix,California,East,Technology,Tables,Product D,199.61,8,0.1,281.07
+CA-49099,2023-03-28,2023-03-30,Same Day,CUST-7917,Corporate,United States,New York,Illinois,South,Technology,Chairs,Product B,509.22,2,0.07,54.45
+CA-18571,2023-03-29,2023-03-31,Same Day,CUST-4144,Consumer,United States,Los Angeles,California,East,Furniture,Tables,Product C,866.99,9,0.4,214.77
+CA-48044,2023-03-30,2023-04-01,Same Day,CUST-1552,Home Office,United States,Phoenix,California,Central,Technology,Tables,Product B,248.94,4,0.03,147.96
+CA-61214,2023-03-31,2023-04-02,Standard Class,CUST-9907,Home Office,United States,Phoenix,New York,West,Office Supplies,Phones,Product B,87.75,1,0.34,-66.91
+CA-71228,2023-04-01,2023-04-03,First Class,CUST-6383,Home Office,United States,Houston,California,East,Furniture,Phones,Product C,362.84,4,0.18,229.59
+CA-58984,2023-04-02,2023-04-04,Same Day,CUST-4911,Consumer,United States,Chicago,Texas,South,Office Supplies,Binders,Product A,750.18,3,0.38,170.84
+CA-50774,2023-04-03,2023-04-05,First Class,CUST-4389,Corporate,United States,Chicago,California,East,Office Supplies,Chairs,Product B,555.18,6,0.48,-20.43
+CA-12568,2023-04-04,2023-04-06,First Class,CUST-9442,Consumer,United States,Houston,Illinois,East,Furniture,Tables,Product C,818.63,7,0.06,-68.1
+CA-72592,2023-04-05,2023-04-07,Standard Class,CUST-3430,Corporate,United States,Houston,Illinois,East,Office Supplies,Chairs,Product B,960.0,8,0.16,234.81
+CA-77563,2023-04-06,2023-04-08,Same Day,CUST-1458,Home Office,United States,Houston,Arizona,South,Furniture,Storage,Product D,794.74,2,0.41,-68.44
+CA-12695,2023-04-07,2023-04-09,Same Day,CUST-1207,Home Office,United States,Chicago,Illinois,West,Office Supplies,Tables,Product A,607.77,6,0.13,-63.46
+CA-58190,2023-04-08,2023-04-10,First Class,CUST-1899,Corporate,United States,Houston,California,Central,Furniture,Chairs,Product A,498.41,6,0.11,70.96
+CA-15258,2023-04-09,2023-04-11,Second Class,CUST-1021,Corporate,United States,New York,Illinois,West,Technology,Binders,Product D,49.67,5,0.41,-46.08
+CA-97538,2023-04-10,2023-04-12,Standard Class,CUST-9601,Consumer,United States,Phoenix,New York,East,Office Supplies,Binders,Product D,984.48,7,0.49,265.47
+CA-49504,2023-04-11,2023-04-13,Standard Class,CUST-1894,Home Office,United States,Phoenix,Illinois,South,Furniture,Tables,Product B,389.65,3,0.28,88.11
+CA-43159,2023-04-12,2023-04-14,Standard Class,CUST-1514,Consumer,United States,Los Angeles,Texas,West,Office Supplies,Storage,Product D,160.71,4,0.14,127.66
+CA-23986,2023-04-13,2023-04-15,Standard Class,CUST-8294,Consumer,United States,Los Angeles,New York,East,Office Supplies,Binders,Product A,670.04,9,0.2,271.24
+CA-71858,2023-04-14,2023-04-16,Same Day,CUST-5904,Consumer,United States,Phoenix,Arizona,Central,Office Supplies,Binders,Product D,291.45,4,0.09,112.11
+CA-22666,2023-04-15,2023-04-17,Same Day,CUST-8867,Home Office,United States,New York,Texas,Central,Furniture,Storage,Product C,589.92,3,0.38,41.44
+CA-48660,2023-04-16,2023-04-18,Second Class,CUST-5109,Consumer,United States,Chicago,California,Central,Technology,Chairs,Product C,590.9,2,0.39,218.86
+CA-13561,2023-04-17,2023-04-19,Standard Class,CUST-8179,Consumer,United States,Chicago,California,East,Technology,Binders,Product B,451.27,5,0.44,77.14
+CA-36854,2023-04-18,2023-04-20,Standard Class,CUST-2560,Consumer,United States,New York,California,South,Technology,Phones,Product A,837.76,4,0.01,27.39
+CA-74505,2023-04-19,2023-04-21,First Class,CUST-2266,Consumer,United States,Chicago,Texas,West,Furniture,Binders,Product C,272.32,8,0.28,189.29
+CA-62251,2023-04-20,2023-04-22,Same Day,CUST-4638,Consumer,United States,Houston,Texas,Central,Technology,Chairs,Product D,454.15,7,0.11,220.64
+CA-32662,2023-04-21,2023-04-23,Standard Class,CUST-9941,Consumer,United States,Phoenix,Texas,East,Furniture,Chairs,Product C,542.32,6,0.17,216.69
+CA-18392,2023-04-22,2023-04-24,Second Class,CUST-4427,Home Office,United States,Phoenix,New York,East,Office Supplies,Tables,Product C,666.99,2,0.39,291.07
+CA-40535,2023-04-23,2023-04-25,Second Class,CUST-5780,Consumer,United States,New York,New York,West,Office Supplies,Phones,Product B,786.13,3,0.1,214.67
+CA-88603,2023-04-24,2023-04-26,Same Day,CUST-2927,Corporate,United States,Chicago,California,Central,Technology,Chairs,Product D,400.86,9,0.32,207.97
+CA-62256,2023-04-25,2023-04-27,Second Class,CUST-3356,Consumer,United States,Los Angeles,Illinois,East,Furniture,Storage,Product D,649.59,9,0.33,242.99
+CA-99135,2023-04-26,2023-04-28,Second Class,CUST-5790,Consumer,United States,Los Angeles,California,West,Office Supplies,Phones,Product D,159.1,5,0.48,-99.93
+CA-45222,2023-04-27,2023-04-29,Same Day,CUST-1306,Home Office,United States,Chicago,Arizona,South,Furniture,Phones,Product B,933.32,3,0.39,44.97
+CA-87373,2023-04-28,2023-04-30,Standard Class,CUST-8979,Home Office,United States,Los Angeles,New York,South,Furniture,Storage,Product D,389.23,2,0.4,195.04
+CA-89575,2023-04-29,2023-05-01,Standard Class,CUST-4665,Corporate,United States,New York,Texas,South,Office Supplies,Binders,Product D,732.23,8,0.27,139.89
+CA-94651,2023-04-30,2023-05-02,Second Class,CUST-8057,Corporate,United States,New York,New York,Central,Furniture,Storage,Product C,30.14,6,0.09,-28.97
+CA-73335,2023-05-01,2023-05-03,Second Class,CUST-1661,Home Office,United States,Chicago,Texas,West,Office Supplies,Storage,Product C,213.14,7,0.21,21.49
+CA-20965,2023-05-02,2023-05-04,Standard Class,CUST-5644,Home Office,United States,Los Angeles,Arizona,West,Office Supplies,Binders,Product D,492.21,1,0.27,34.72
+CA-34538,2023-05-03,2023-05-05,Same Day,CUST-9503,Consumer,United States,New York,Arizona,East,Office Supplies,Binders,Product A,879.47,1,0.34,127.13
+CA-80592,2023-05-04,2023-05-06,Second Class,CUST-3920,Home Office,United States,New York,New York,East,Furniture,Binders,Product A,531.98,2,0.3,232.64
+CA-18110,2023-05-05,2023-05-07,First Class,CUST-9946,Corporate,United States,Houston,Texas,East,Office Supplies,Binders,Product D,930.57,3,0.2,273.0
+CA-89309,2023-05-06,2023-05-08,Same Day,CUST-7236,Consumer,United States,Houston,Arizona,West,Furniture,Binders,Product A,488.96,1,0.13,200.04
+CA-37266,2023-05-07,2023-05-09,Second Class,CUST-7078,Corporate,United States,New York,California,East,Office Supplies,Storage,Product B,495.54,5,0.08,237.18
+CA-62992,2023-05-08,2023-05-10,Second Class,CUST-1352,Consumer,United States,Chicago,California,West,Office Supplies,Tables,Product C,128.55,3,0.35,88.04
+CA-92948,2023-05-09,2023-05-11,First Class,CUST-8005,Home Office,United States,Phoenix,Texas,West,Technology,Tables,Product B,804.63,1,0.32,55.91
+CA-16910,2023-05-10,2023-05-12,First Class,CUST-1158,Corporate,United States,Phoenix,New York,South,Technology,Chairs,Product C,254.5,8,0.34,57.08
+CA-10206,2023-05-11,2023-05-13,Standard Class,CUST-1956,Consumer,United States,New York,Arizona,East,Technology,Tables,Product A,900.62,6,0.19,146.42
+CA-97054,2023-05-12,2023-05-14,Same Day,CUST-3071,Consumer,United States,New York,New York,South,Furniture,Tables,Product A,911.72,9,0.13,-50.31
+CA-97897,2023-05-13,2023-05-15,Same Day,CUST-9595,Home Office,United States,New York,California,Central,Furniture,Storage,Product D,943.88,3,0.38,131.8
+CA-33419,2023-05-14,2023-05-16,Standard Class,CUST-4453,Home Office,United States,Chicago,Arizona,Central,Office Supplies,Binders,Product A,525.03,9,0.39,166.05
+CA-60636,2023-05-15,2023-05-17,Same Day,CUST-7675,Home Office,United States,Houston,New York,Central,Office Supplies,Binders,Product A,680.32,9,0.23,75.56
+CA-60015,2023-05-16,2023-05-18,Same Day,CUST-1955,Corporate,United States,New York,Illinois,West,Office Supplies,Storage,Product D,780.73,1,0.31,281.27
+CA-64268,2023-05-17,2023-05-19,Same Day,CUST-7295,Consumer,United States,New York,Texas,West,Office Supplies,Tables,Product D,139.7,3,0.19,143.29
+CA-97939,2023-05-18,2023-05-20,Same Day,CUST-2712,Home Office,United States,Los Angeles,Texas,West,Furniture,Storage,Product C,604.95,6,0.35,-12.0
+CA-28141,2023-05-19,2023-05-21,Same Day,CUST-5703,Corporate,United States,Chicago,Illinois,East,Office Supplies,Chairs,Product A,43.95,8,0.42,91.69
+CA-90356,2023-05-20,2023-05-22,First Class,CUST-7563,Corporate,United States,New York,California,South,Office Supplies,Binders,Product C,502.59,4,0.34,170.16
+CA-81910,2023-05-21,2023-05-23,Same Day,CUST-6631,Corporate,United States,Los Angeles,Arizona,West,Technology,Phones,Product C,163.29,5,0.26,29.45
+CA-66044,2023-05-22,2023-05-24,First Class,CUST-2394,Home Office,United States,Phoenix,Texas,South,Office Supplies,Chairs,Product B,191.09,9,0.23,-68.14
+CA-77214,2023-05-23,2023-05-25,Same Day,CUST-5732,Home Office,United States,New York,Illinois,South,Office Supplies,Chairs,Product A,371.4,6,0.32,133.37
+CA-43827,2023-05-24,2023-05-26,Standard Class,CUST-4714,Consumer,United States,New York,Illinois,South,Office Supplies,Storage,Product A,438.11,7,0.34,279.15
+CA-65820,2023-05-25,2023-05-27,Second Class,CUST-1529,Consumer,United States,Los Angeles,California,East,Furniture,Tables,Product B,626.94,7,0.28,94.03
+CA-72623,2023-05-26,2023-05-28,First Class,CUST-3958,Home Office,United States,Chicago,California,East,Technology,Binders,Product C,83.68,4,0.31,262.44
+CA-91734,2023-05-27,2023-05-29,Same Day,CUST-8904,Corporate,United States,New York,New York,Central,Office Supplies,Phones,Product A,508.65,4,0.05,234.01
+CA-85450,2023-05-28,2023-05-30,Standard Class,CUST-4591,Corporate,United States,Phoenix,Texas,Central,Office Supplies,Chairs,Product C,190.8,4,0.48,-41.03
+CA-32299,2023-05-29,2023-05-31,Second Class,CUST-7895,Corporate,United States,New York,New York,South,Technology,Phones,Product B,578.24,5,0.4,183.27
+CA-53585,2023-05-30,2023-06-01,First Class,CUST-1525,Consumer,United States,Phoenix,Illinois,Central,Office Supplies,Tables,Product D,641.03,5,0.19,74.19
+CA-74044,2023-05-31,2023-06-02,Second Class,CUST-7477,Corporate,United States,Houston,Arizona,South,Furniture,Tables,Product C,561.14,8,0.28,0.1
+CA-52557,2023-06-01,2023-06-03,Standard Class,CUST-1001,Consumer,United States,Houston,Arizona,East,Office Supplies,Phones,Product A,740.91,9,0.02,174.78
+CA-59080,2023-06-02,2023-06-04,First Class,CUST-1374,Consumer,United States,Phoenix,California,East,Furniture,Binders,Product D,342.25,2,0.02,197.06
+CA-12693,2023-06-03,2023-06-05,Second Class,CUST-5648,Corporate,United States,Chicago,Arizona,East,Furniture,Tables,Product C,767.46,7,0.13,-28.04
+CA-79163,2023-06-04,2023-06-06,Same Day,CUST-3365,Corporate,United States,New York,Arizona,West,Office Supplies,Phones,Product C,438.44,1,0.34,265.78
+CA-35939,2023-06-05,2023-06-07,First Class,CUST-2525,Home Office,United States,New York,Arizona,South,Technology,Chairs,Product D,489.34,1,0.43,200.46
+CA-58925,2023-06-06,2023-06-08,Second Class,CUST-2646,Home Office,United States,Houston,Illinois,East,Furniture,Phones,Product D,651.62,4,0.28,273.35
+CA-52941,2023-06-07,2023-06-09,Standard Class,CUST-1013,Corporate,United States,Phoenix,Arizona,South,Technology,Phones,Product D,28.17,7,0.27,26.83
+CA-31834,2023-06-08,2023-06-10,Standard Class,CUST-5599,Consumer,United States,New York,Arizona,Central,Office Supplies,Storage,Product A,657.45,2,0.2,275.73
+CA-28047,2023-06-09,2023-06-11,First Class,CUST-3278,Consumer,United States,New York,Arizona,Central,Furniture,Tables,Product A,622.4,2,0.08,47.41
+CA-36105,2023-06-10,2023-06-12,Second Class,CUST-4155,Consumer,United States,Chicago,New York,East,Office Supplies,Binders,Product C,316.75,1,0.06,-78.41
+CA-85766,2023-06-11,2023-06-13,First Class,CUST-9321,Consumer,United States,Los Angeles,Illinois,South,Technology,Binders,Product C,94.94,2,0.38,205.19
+CA-25707,2023-06-12,2023-06-14,First Class,CUST-4814,Consumer,United States,Houston,California,East,Office Supplies,Storage,Product B,100.03,7,0.46,181.4
+CA-31976,2023-06-13,2023-06-15,Second Class,CUST-4216,Home Office,United States,Houston,New York,Central,Office Supplies,Binders,Product A,923.99,9,0.23,139.16
+CA-54262,2023-06-14,2023-06-16,Second Class,CUST-9219,Corporate,United States,Los Angeles,Texas,East,Furniture,Phones,Product C,692.39,6,0.33,95.96
+CA-33776,2023-06-15,2023-06-17,Same Day,CUST-3113,Home Office,United States,New York,Illinois,South,Office Supplies,Storage,Product D,135.83,2,0.46,-87.13
+CA-40080,2023-06-16,2023-06-18,Second Class,CUST-5356,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Chairs,Product D,363.16,9,0.05,149.84
+CA-76842,2023-06-17,2023-06-19,Standard Class,CUST-6543,Consumer,United States,Chicago,Texas,West,Office Supplies,Tables,Product A,596.56,7,0.39,66.73
+CA-71373,2023-06-18,2023-06-20,First Class,CUST-5555,Consumer,United States,Houston,Texas,Central,Furniture,Tables,Product D,837.22,1,0.31,124.08
+CA-16776,2023-06-19,2023-06-21,First Class,CUST-8062,Consumer,United States,Chicago,Texas,West,Technology,Tables,Product B,53.22,9,0.3,71.73
+CA-65016,2023-06-20,2023-06-22,Standard Class,CUST-4374,Corporate,United States,Los Angeles,California,East,Technology,Phones,Product C,244.27,2,0.15,286.42
+CA-19474,2023-06-21,2023-06-23,Second Class,CUST-7430,Consumer,United States,New York,Arizona,East,Office Supplies,Chairs,Product C,890.85,4,0.34,141.64
+CA-68053,2023-06-22,2023-06-24,Standard Class,CUST-4466,Corporate,United States,Los Angeles,Illinois,South,Furniture,Storage,Product C,19.07,9,0.4,199.69
+CA-31959,2023-06-23,2023-06-25,Standard Class,CUST-4081,Consumer,United States,Phoenix,Arizona,West,Office Supplies,Storage,Product A,209.39,4,0.06,274.54
+CA-15530,2023-06-24,2023-06-26,Same Day,CUST-1629,Corporate,United States,Houston,Arizona,East,Technology,Tables,Product D,959.43,3,0.27,136.64
+CA-13748,2023-06-25,2023-06-27,Standard Class,CUST-1269,Home Office,United States,Chicago,Texas,West,Furniture,Chairs,Product B,617.27,1,0.05,-95.17
+CA-23545,2023-06-26,2023-06-28,First Class,CUST-6724,Consumer,United States,Phoenix,California,East,Technology,Chairs,Product A,269.05,7,0.44,-86.28
+CA-76199,2023-06-27,2023-06-29,Standard Class,CUST-6897,Corporate,United States,Chicago,New York,Central,Technology,Chairs,Product C,76.32,6,0.25,180.94
+CA-44766,2023-06-28,2023-06-30,First Class,CUST-4432,Home Office,United States,New York,California,East,Furniture,Binders,Product B,37.91,4,0.4,11.63
+CA-83530,2023-06-29,2023-07-01,First Class,CUST-7276,Consumer,United States,New York,Arizona,South,Furniture,Binders,Product C,252.3,6,0.18,131.75
+CA-71087,2023-06-30,2023-07-02,First Class,CUST-6895,Consumer,United States,New York,California,Central,Office Supplies,Tables,Product C,882.67,6,0.06,-19.09
+CA-78840,2023-07-01,2023-07-03,Second Class,CUST-8115,Consumer,United States,Chicago,Texas,South,Office Supplies,Chairs,Product A,421.75,4,0.02,8.1
+CA-64384,2023-07-02,2023-07-04,Same Day,CUST-7656,Corporate,United States,Phoenix,New York,Central,Technology,Chairs,Product C,723.13,6,0.14,101.86
+CA-61005,2023-07-03,2023-07-05,First Class,CUST-1575,Corporate,United States,New York,Texas,West,Furniture,Storage,Product B,919.1,8,0.12,290.23
+CA-56576,2023-07-04,2023-07-06,First Class,CUST-8029,Home Office,United States,Phoenix,New York,South,Furniture,Storage,Product C,413.96,3,0.28,146.51
+CA-49353,2023-07-05,2023-07-07,Second Class,CUST-7099,Corporate,United States,Chicago,Arizona,East,Office Supplies,Tables,Product D,199.36,4,0.01,274.46
+CA-72003,2023-07-06,2023-07-08,First Class,CUST-4192,Corporate,United States,Phoenix,New York,West,Technology,Chairs,Product C,521.95,1,0.26,283.75
+CA-93211,2023-07-07,2023-07-09,Standard Class,CUST-4178,Consumer,United States,Chicago,New York,East,Technology,Tables,Product A,909.0,4,0.2,-16.76
+CA-62733,2023-07-08,2023-07-10,Standard Class,CUST-7052,Consumer,United States,Chicago,New York,Central,Office Supplies,Storage,Product B,806.33,9,0.29,24.48
+CA-75318,2023-07-09,2023-07-11,Same Day,CUST-3734,Consumer,United States,Houston,California,Central,Furniture,Storage,Product A,75.17,8,0.35,208.0
+CA-99474,2023-07-10,2023-07-12,First Class,CUST-7116,Consumer,United States,Chicago,California,East,Office Supplies,Binders,Product D,695.65,4,0.32,246.71
+CA-33664,2023-07-11,2023-07-13,Second Class,CUST-4568,Consumer,United States,Chicago,Arizona,East,Office Supplies,Tables,Product C,576.18,7,0.49,107.69
+CA-77172,2023-07-12,2023-07-14,Standard Class,CUST-3203,Consumer,United States,Los Angeles,New York,West,Office Supplies,Tables,Product A,908.39,3,0.07,297.29
+CA-95616,2023-07-13,2023-07-15,Second Class,CUST-2390,Consumer,United States,New York,Illinois,East,Office Supplies,Chairs,Product A,131.26,9,0.21,-95.37
+CA-36736,2023-07-14,2023-07-16,Second Class,CUST-2742,Home Office,United States,Houston,Arizona,South,Furniture,Chairs,Product A,538.7,4,0.21,19.84
+CA-10854,2023-07-15,2023-07-17,Standard Class,CUST-2925,Home Office,United States,Houston,New York,South,Office Supplies,Binders,Product A,880.67,2,0.21,149.26
+CA-48623,2023-07-16,2023-07-18,Second Class,CUST-1619,Home Office,United States,Houston,New York,East,Furniture,Phones,Product D,415.92,5,0.33,87.72
+CA-17392,2023-07-17,2023-07-19,Standard Class,CUST-2274,Home Office,United States,Los Angeles,California,South,Office Supplies,Phones,Product D,487.17,2,0.24,-53.36
+CA-65680,2023-07-18,2023-07-20,Second Class,CUST-1956,Consumer,United States,Chicago,Arizona,East,Technology,Phones,Product C,79.76,6,0.26,47.11
+CA-56717,2023-07-19,2023-07-21,Standard Class,CUST-2939,Home Office,United States,New York,New York,West,Furniture,Tables,Product C,285.36,1,0.22,-89.82
+CA-97092,2023-07-20,2023-07-22,First Class,CUST-4953,Consumer,United States,Phoenix,New York,South,Technology,Tables,Product B,331.26,6,0.5,157.1
+CA-60859,2023-07-21,2023-07-23,Same Day,CUST-1968,Home Office,United States,Chicago,Arizona,South,Office Supplies,Storage,Product D,945.67,4,0.46,257.1
+CA-36309,2023-07-22,2023-07-24,Standard Class,CUST-1281,Corporate,United States,Los Angeles,Illinois,East,Office Supplies,Tables,Product A,289.84,3,0.15,253.95
+CA-97455,2023-07-23,2023-07-25,Standard Class,CUST-7262,Home Office,United States,Chicago,Arizona,South,Office Supplies,Tables,Product A,466.26,2,0.06,179.82
+CA-73734,2023-07-24,2023-07-26,Same Day,CUST-2058,Home Office,United States,Chicago,Arizona,Central,Furniture,Tables,Product B,674.59,7,0.42,86.31
+CA-80467,2023-07-25,2023-07-27,Standard Class,CUST-5293,Consumer,United States,Los Angeles,Illinois,West,Technology,Binders,Product A,170.56,9,0.5,104.81
+CA-62662,2023-07-26,2023-07-28,Standard Class,CUST-6178,Home Office,United States,Houston,Arizona,West,Furniture,Tables,Product B,491.58,3,0.15,-45.23
+CA-22688,2023-07-27,2023-07-29,Second Class,CUST-7980,Corporate,United States,Houston,New York,South,Furniture,Chairs,Product C,741.15,6,0.18,36.41
+CA-35342,2023-07-28,2023-07-30,Same Day,CUST-2229,Consumer,United States,New York,Arizona,South,Office Supplies,Chairs,Product D,868.19,9,0.47,-24.91
+CA-47157,2023-07-29,2023-07-31,First Class,CUST-5585,Consumer,United States,New York,Illinois,Central,Technology,Storage,Product B,630.0,2,0.36,228.48
+CA-77863,2023-07-30,2023-08-01,Standard Class,CUST-9467,Home Office,United States,Houston,Texas,Central,Office Supplies,Binders,Product A,672.36,7,0.15,265.9
+CA-62083,2023-07-31,2023-08-02,Same Day,CUST-3740,Consumer,United States,Phoenix,Arizona,South,Furniture,Chairs,Product B,135.02,5,0.29,114.77
+CA-75733,2023-08-01,2023-08-03,Second Class,CUST-3289,Consumer,United States,Chicago,California,South,Office Supplies,Binders,Product C,946.32,5,0.47,191.11
+CA-99045,2023-08-02,2023-08-04,First Class,CUST-2239,Consumer,United States,Phoenix,New York,Central,Technology,Binders,Product A,141.25,7,0.41,-51.41
+CA-44698,2023-08-03,2023-08-05,Same Day,CUST-6370,Consumer,United States,Chicago,New York,East,Office Supplies,Storage,Product C,776.93,9,0.37,143.41
+CA-90623,2023-08-04,2023-08-06,First Class,CUST-1125,Consumer,United States,Houston,California,Central,Technology,Binders,Product C,272.17,4,0.37,181.12
+CA-32671,2023-08-05,2023-08-07,First Class,CUST-8473,Consumer,United States,New York,California,East,Technology,Tables,Product B,934.26,9,0.09,81.11
+CA-35184,2023-08-06,2023-08-08,First Class,CUST-6342,Corporate,United States,New York,Arizona,West,Office Supplies,Binders,Product C,722.76,9,0.41,-2.69
+CA-52107,2023-08-07,2023-08-09,Standard Class,CUST-8351,Home Office,United States,Phoenix,California,West,Furniture,Storage,Product A,756.28,4,0.14,250.95
+CA-96202,2023-08-08,2023-08-10,Standard Class,CUST-7638,Corporate,United States,New York,Texas,Central,Office Supplies,Storage,Product C,226.87,3,0.47,197.16
+CA-61663,2023-08-09,2023-08-11,Second Class,CUST-7570,Consumer,United States,Houston,Illinois,East,Furniture,Storage,Product C,448.61,2,0.18,259.94
+CA-25708,2023-08-10,2023-08-12,Second Class,CUST-4249,Consumer,United States,Phoenix,California,Central,Furniture,Chairs,Product B,621.64,9,0.43,227.36
+CA-59811,2023-08-11,2023-08-13,Same Day,CUST-8595,Home Office,United States,Chicago,California,Central,Office Supplies,Tables,Product C,772.27,2,0.13,296.15
+CA-12811,2023-08-12,2023-08-14,Second Class,CUST-7294,Corporate,United States,New York,Texas,East,Furniture,Chairs,Product D,112.92,6,0.26,-23.13
+CA-66250,2023-08-13,2023-08-15,First Class,CUST-7527,Home Office,United States,Los Angeles,New York,Central,Furniture,Phones,Product B,962.74,5,0.05,-65.3
+CA-82082,2023-08-14,2023-08-16,First Class,CUST-6757,Corporate,United States,New York,New York,West,Office Supplies,Tables,Product B,891.32,5,0.33,34.8
+CA-44754,2023-08-15,2023-08-17,Standard Class,CUST-2969,Consumer,United States,Chicago,Arizona,South,Office Supplies,Binders,Product A,277.65,4,0.42,-48.4
+CA-21411,2023-08-16,2023-08-18,First Class,CUST-1891,Home Office,United States,Phoenix,Texas,South,Office Supplies,Storage,Product A,824.53,6,0.36,109.25
+CA-12911,2023-08-17,2023-08-19,Same Day,CUST-5470,Home Office,United States,Chicago,Illinois,Central,Furniture,Phones,Product A,523.14,5,0.26,153.21
+CA-77270,2023-08-18,2023-08-20,First Class,CUST-8175,Consumer,United States,Los Angeles,Illinois,East,Technology,Tables,Product A,467.19,4,0.02,131.32
+CA-93763,2023-08-19,2023-08-21,First Class,CUST-9320,Home Office,United States,Houston,Texas,East,Furniture,Chairs,Product D,321.29,9,0.47,3.7
+CA-18680,2023-08-20,2023-08-22,Same Day,CUST-7812,Corporate,United States,New York,Illinois,West,Technology,Storage,Product B,585.16,6,0.35,263.53
+CA-94896,2023-08-21,2023-08-23,Second Class,CUST-8519,Corporate,United States,Phoenix,New York,East,Office Supplies,Chairs,Product C,732.59,3,0.37,-91.53
+CA-93879,2023-08-22,2023-08-24,Second Class,CUST-5612,Corporate,United States,Houston,Illinois,East,Technology,Tables,Product A,416.82,6,0.4,39.21
+CA-81295,2023-08-23,2023-08-25,Same Day,CUST-2198,Corporate,United States,Chicago,Illinois,West,Office Supplies,Tables,Product A,632.93,1,0.37,187.6
+CA-98614,2023-08-24,2023-08-26,Standard Class,CUST-6238,Consumer,United States,Phoenix,Texas,Central,Office Supplies,Phones,Product A,702.32,5,0.22,206.77
+CA-21111,2023-08-25,2023-08-27,First Class,CUST-7089,Home Office,United States,Houston,Texas,South,Technology,Binders,Product C,714.01,6,0.37,66.45
+CA-47504,2023-08-26,2023-08-28,Same Day,CUST-7257,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Chairs,Product A,61.45,8,0.31,-93.24
+CA-11802,2023-08-27,2023-08-29,First Class,CUST-8705,Consumer,United States,Los Angeles,California,Central,Technology,Phones,Product C,861.15,9,0.43,147.22
+CA-18155,2023-08-28,2023-08-30,Standard Class,CUST-4719,Home Office,United States,Los Angeles,Texas,West,Office Supplies,Storage,Product B,463.67,3,0.4,-74.76
+CA-83656,2023-08-29,2023-08-31,First Class,CUST-1302,Home Office,United States,New York,Arizona,Central,Furniture,Binders,Product B,269.79,2,0.02,-56.86
+CA-49384,2023-08-30,2023-09-01,Same Day,CUST-1986,Consumer,United States,New York,Arizona,West,Furniture,Phones,Product B,249.35,4,0.19,160.1
+CA-57254,2023-08-31,2023-09-02,First Class,CUST-5440,Consumer,United States,Los Angeles,New York,Central,Office Supplies,Chairs,Product D,488.18,8,0.02,25.0
+CA-31918,2023-09-01,2023-09-03,Second Class,CUST-5909,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Tables,Product C,887.96,8,0.05,39.21
+CA-95981,2023-09-02,2023-09-04,Standard Class,CUST-4072,Home Office,United States,Los Angeles,California,Central,Technology,Storage,Product A,384.56,3,0.3,94.72
+CA-70713,2023-09-03,2023-09-05,Standard Class,CUST-4124,Home Office,United States,New York,New York,West,Furniture,Chairs,Product A,752.23,4,0.44,291.43
+CA-40306,2023-09-04,2023-09-06,Standard Class,CUST-9125,Consumer,United States,Los Angeles,Illinois,South,Technology,Binders,Product A,105.85,3,0.06,286.18
+CA-26646,2023-09-05,2023-09-07,Same Day,CUST-4291,Home Office,United States,Los Angeles,Texas,South,Office Supplies,Binders,Product A,481.3,2,0.23,66.5
+CA-56843,2023-09-06,2023-09-08,Standard Class,CUST-5033,Corporate,United States,Phoenix,Arizona,East,Office Supplies,Tables,Product D,991.77,4,0.46,6.2
+CA-26371,2023-09-07,2023-09-09,Second Class,CUST-6105,Home Office,United States,Houston,California,Central,Technology,Tables,Product A,772.73,6,0.41,21.04
+CA-87371,2023-09-08,2023-09-10,Same Day,CUST-1703,Consumer,United States,New York,Arizona,West,Office Supplies,Storage,Product D,218.42,5,0.26,7.51
+CA-12049,2023-09-09,2023-09-11,Second Class,CUST-9133,Consumer,United States,Phoenix,Texas,Central,Furniture,Storage,Product C,506.43,3,0.39,112.9
+CA-41616,2023-09-10,2023-09-12,First Class,CUST-1574,Corporate,United States,Los Angeles,Illinois,South,Technology,Tables,Product B,241.29,2,0.26,142.74
+CA-30932,2023-09-11,2023-09-13,First Class,CUST-6704,Corporate,United States,Los Angeles,Texas,Central,Furniture,Tables,Product A,415.47,9,0.08,95.51
+CA-39855,2023-09-12,2023-09-14,First Class,CUST-8848,Home Office,United States,Houston,Texas,West,Furniture,Binders,Product B,782.28,1,0.06,63.2
+CA-71434,2023-09-13,2023-09-15,First Class,CUST-6208,Home Office,United States,New York,Arizona,Central,Furniture,Tables,Product C,773.51,9,0.09,-15.49
+CA-82694,2023-09-14,2023-09-16,Second Class,CUST-7924,Consumer,United States,New York,California,West,Technology,Phones,Product C,235.82,1,0.18,93.0
+CA-53016,2023-09-15,2023-09-17,Same Day,CUST-4828,Corporate,United States,Chicago,Texas,South,Office Supplies,Chairs,Product A,923.0,7,0.47,36.44
+CA-17400,2023-09-16,2023-09-18,Same Day,CUST-4230,Corporate,United States,New York,Arizona,South,Furniture,Tables,Product C,596.64,6,0.4,116.64
+CA-52642,2023-09-17,2023-09-19,Standard Class,CUST-1488,Corporate,United States,Houston,California,South,Furniture,Storage,Product B,386.13,7,0.22,170.08
+CA-25151,2023-09-18,2023-09-20,Second Class,CUST-8114,Home Office,United States,Chicago,Illinois,East,Furniture,Phones,Product A,506.92,3,0.25,153.32
+CA-61407,2023-09-19,2023-09-21,First Class,CUST-4173,Corporate,United States,Chicago,Illinois,South,Office Supplies,Storage,Product D,609.02,3,0.13,85.0
+CA-76690,2023-09-20,2023-09-22,Second Class,CUST-2667,Consumer,United States,Los Angeles,New York,Central,Office Supplies,Phones,Product A,564.29,1,0.35,122.42
+CA-14499,2023-09-21,2023-09-23,Standard Class,CUST-5114,Consumer,United States,Los Angeles,Arizona,East,Technology,Tables,Product B,491.54,4,0.4,13.94
+CA-16295,2023-09-22,2023-09-24,Standard Class,CUST-4553,Home Office,United States,New York,California,South,Office Supplies,Chairs,Product A,509.88,2,0.12,-90.3
+CA-69040,2023-09-23,2023-09-25,Second Class,CUST-8761,Home Office,United States,Chicago,Texas,Central,Technology,Storage,Product A,184.65,8,0.02,150.01
+CA-22183,2023-09-24,2023-09-26,Second Class,CUST-2000,Corporate,United States,Los Angeles,Illinois,Central,Technology,Phones,Product B,814.61,3,0.31,1.03
+CA-39299,2023-09-25,2023-09-27,Second Class,CUST-2388,Home Office,United States,Houston,California,Central,Technology,Binders,Product A,546.34,7,0.28,167.58
+CA-22874,2023-09-26,2023-09-28,Same Day,CUST-6450,Consumer,United States,Los Angeles,Arizona,West,Technology,Tables,Product A,139.77,7,0.2,198.8
+CA-42711,2023-09-27,2023-09-29,First Class,CUST-4712,Corporate,United States,Los Angeles,New York,East,Technology,Chairs,Product B,768.5,9,0.32,266.37
+CA-15539,2023-09-28,2023-09-30,Second Class,CUST-2367,Consumer,United States,Chicago,Illinois,Central,Furniture,Tables,Product C,933.12,6,0.28,283.25
+CA-63351,2023-09-29,2023-10-01,Second Class,CUST-9189,Corporate,United States,Chicago,California,West,Office Supplies,Binders,Product B,947.83,1,0.13,-95.79
+CA-71267,2023-09-30,2023-10-02,Second Class,CUST-1454,Home Office,United States,Phoenix,California,South,Furniture,Chairs,Product A,375.33,8,0.2,296.15
+CA-58354,2023-10-01,2023-10-03,Standard Class,CUST-3772,Corporate,United States,Houston,California,Central,Technology,Binders,Product D,144.16,1,0.21,173.21
+CA-12557,2023-10-02,2023-10-04,Standard Class,CUST-4726,Corporate,United States,Chicago,Arizona,West,Office Supplies,Tables,Product D,523.22,3,0.44,157.41
+CA-48360,2023-10-03,2023-10-05,Same Day,CUST-8232,Consumer,United States,New York,Arizona,Central,Furniture,Phones,Product B,121.48,5,0.48,-93.91
+CA-92018,2023-10-04,2023-10-06,First Class,CUST-5806,Consumer,United States,Houston,Arizona,East,Furniture,Tables,Product D,934.65,8,0.45,244.49
+CA-12200,2023-10-05,2023-10-07,Same Day,CUST-3190,Corporate,United States,Houston,Texas,East,Technology,Tables,Product A,191.74,9,0.36,-41.8
+CA-78497,2023-10-06,2023-10-08,First Class,CUST-3875,Home Office,United States,Chicago,California,South,Furniture,Tables,Product A,260.24,7,0.29,234.93
+CA-56975,2023-10-07,2023-10-09,Standard Class,CUST-6592,Home Office,United States,Houston,Illinois,Central,Furniture,Storage,Product B,412.57,9,0.34,-93.77
+CA-31357,2023-10-08,2023-10-10,Standard Class,CUST-2440,Consumer,United States,Chicago,Arizona,West,Furniture,Binders,Product A,389.33,3,0.47,158.39
+CA-87505,2023-10-09,2023-10-11,Standard Class,CUST-9927,Home Office,United States,Los Angeles,Arizona,South,Furniture,Binders,Product C,796.72,5,0.12,73.92
+CA-12869,2023-10-10,2023-10-12,Same Day,CUST-7059,Consumer,United States,Phoenix,California,Central,Furniture,Binders,Product A,461.75,8,0.27,-19.69
+CA-71135,2023-10-11,2023-10-13,Second Class,CUST-8010,Home Office,United States,Los Angeles,Arizona,South,Technology,Storage,Product B,179.06,1,0.34,-56.98
+CA-60108,2023-10-12,2023-10-14,Second Class,CUST-8117,Corporate,United States,Chicago,Texas,West,Technology,Phones,Product C,274.54,8,0.34,76.05
+CA-48467,2023-10-13,2023-10-15,Standard Class,CUST-3989,Consumer,United States,Chicago,Texas,South,Furniture,Tables,Product C,514.02,7,0.13,-50.68
+CA-33328,2023-10-14,2023-10-16,Second Class,CUST-7228,Consumer,United States,Los Angeles,Arizona,South,Technology,Phones,Product D,155.98,1,0.29,94.58
+CA-96831,2023-10-15,2023-10-17,Second Class,CUST-7471,Corporate,United States,New York,California,South,Technology,Storage,Product A,615.54,6,0.4,150.09
+CA-13987,2023-10-16,2023-10-18,Same Day,CUST-3863,Consumer,United States,New York,California,Central,Office Supplies,Binders,Product B,570.09,1,0.24,230.95
+CA-68871,2023-10-17,2023-10-19,First Class,CUST-2177,Home Office,United States,New York,California,West,Furniture,Tables,Product D,717.56,2,0.4,171.46
+CA-32399,2023-10-18,2023-10-20,Standard Class,CUST-5760,Home Office,United States,Chicago,New York,East,Technology,Chairs,Product D,938.33,5,0.18,-73.92
+CA-56214,2023-10-19,2023-10-21,Standard Class,CUST-1011,Consumer,United States,Houston,Arizona,Central,Technology,Chairs,Product A,913.13,2,0.47,22.97
+CA-96416,2023-10-20,2023-10-22,Same Day,CUST-6252,Home Office,United States,Chicago,California,East,Furniture,Phones,Product A,946.61,1,0.27,15.19
+CA-80271,2023-10-21,2023-10-23,Same Day,CUST-5399,Consumer,United States,Houston,Texas,East,Office Supplies,Binders,Product B,252.27,6,0.3,266.01
+CA-54064,2023-10-22,2023-10-24,Second Class,CUST-9234,Corporate,United States,Los Angeles,Illinois,Central,Furniture,Chairs,Product D,140.25,8,0.02,247.11
+CA-80091,2023-10-23,2023-10-25,Standard Class,CUST-6445,Consumer,United States,Phoenix,Illinois,Central,Office Supplies,Phones,Product B,309.25,8,0.09,48.06
+CA-50818,2023-10-24,2023-10-26,First Class,CUST-7570,Corporate,United States,Houston,California,West,Furniture,Storage,Product D,896.13,8,0.32,-71.54
+CA-55525,2023-10-25,2023-10-27,Same Day,CUST-9212,Home Office,United States,New York,Illinois,West,Furniture,Phones,Product D,972.33,6,0.21,257.64
+CA-29830,2023-10-26,2023-10-28,First Class,CUST-1406,Corporate,United States,Chicago,Illinois,South,Furniture,Phones,Product D,860.73,3,0.25,255.28
+CA-27429,2023-10-27,2023-10-29,First Class,CUST-5431,Home Office,United States,Los Angeles,New York,East,Furniture,Phones,Product A,118.92,1,0.03,241.9
+CA-16893,2023-10-28,2023-10-30,Standard Class,CUST-6243,Consumer,United States,New York,Texas,West,Office Supplies,Tables,Product D,947.95,2,0.42,238.03
+CA-89909,2023-10-29,2023-10-31,Standard Class,CUST-7542,Home Office,United States,Los Angeles,Texas,South,Office Supplies,Phones,Product D,429.12,5,0.39,92.1
+CA-57333,2023-10-30,2023-11-01,Same Day,CUST-7936,Consumer,United States,Phoenix,New York,West,Technology,Phones,Product D,19.22,5,0.09,-29.03
+CA-13436,2023-10-31,2023-11-02,Standard Class,CUST-9906,Consumer,United States,Chicago,New York,Central,Furniture,Tables,Product C,447.97,1,0.32,91.0
+CA-84290,2023-11-01,2023-11-03,Standard Class,CUST-5146,Corporate,United States,Chicago,Illinois,West,Office Supplies,Tables,Product A,55.61,1,0.41,97.84
+CA-86213,2023-11-02,2023-11-04,Standard Class,CUST-1140,Corporate,United States,Phoenix,Arizona,East,Office Supplies,Storage,Product C,548.44,9,0.32,95.97
+CA-15895,2023-11-03,2023-11-05,First Class,CUST-5882,Corporate,United States,Chicago,Illinois,West,Office Supplies,Binders,Product A,345.17,2,0.16,115.51
+CA-29738,2023-11-04,2023-11-06,Same Day,CUST-7012,Corporate,United States,Houston,New York,East,Furniture,Chairs,Product B,478.7,7,0.33,3.06
+CA-40746,2023-11-05,2023-11-07,Second Class,CUST-1963,Home Office,United States,Los Angeles,Texas,Central,Technology,Chairs,Product C,617.04,4,0.11,46.5
+CA-59377,2023-11-06,2023-11-08,First Class,CUST-8151,Home Office,United States,New York,Illinois,East,Office Supplies,Phones,Product B,870.11,7,0.16,73.67
+CA-58404,2023-11-07,2023-11-09,Standard Class,CUST-9564,Home Office,United States,Phoenix,Arizona,West,Furniture,Storage,Product D,665.28,8,0.12,-47.55
+CA-64045,2023-11-08,2023-11-10,First Class,CUST-4610,Consumer,United States,Houston,Illinois,South,Office Supplies,Phones,Product B,439.71,5,0.28,82.15
+CA-49790,2023-11-09,2023-11-11,Standard Class,CUST-7894,Home Office,United States,New York,California,Central,Office Supplies,Chairs,Product B,821.23,1,0.05,224.19
+CA-15600,2023-11-10,2023-11-12,Standard Class,CUST-8311,Home Office,United States,New York,Illinois,West,Technology,Tables,Product B,906.53,4,0.47,231.22
+CA-50764,2023-11-11,2023-11-13,First Class,CUST-1105,Home Office,United States,Phoenix,New York,Central,Office Supplies,Binders,Product B,128.56,3,0.17,64.63
+CA-84543,2023-11-12,2023-11-14,Same Day,CUST-6539,Corporate,United States,Houston,Texas,Central,Office Supplies,Storage,Product A,536.61,5,0.11,107.52
+CA-55714,2023-11-13,2023-11-15,Standard Class,CUST-7787,Home Office,United States,New York,Texas,West,Furniture,Tables,Product C,291.67,6,0.25,-86.54
+CA-66835,2023-11-14,2023-11-16,Same Day,CUST-3137,Consumer,United States,New York,New York,West,Furniture,Binders,Product A,56.59,2,0.14,169.77
+CA-83744,2023-11-15,2023-11-17,Second Class,CUST-5445,Corporate,United States,Houston,California,South,Technology,Storage,Product A,671.86,7,0.27,61.84
+CA-66491,2023-11-16,2023-11-18,Standard Class,CUST-4530,Consumer,United States,Chicago,New York,Central,Furniture,Storage,Product A,864.14,3,0.17,78.19
+CA-28589,2023-11-17,2023-11-19,Same Day,CUST-2286,Home Office,United States,New York,Illinois,Central,Furniture,Chairs,Product B,171.27,1,0.07,249.47
+CA-53484,2023-11-18,2023-11-20,Same Day,CUST-8052,Corporate,United States,Los Angeles,New York,West,Technology,Tables,Product A,814.29,3,0.13,84.73
+CA-92989,2023-11-19,2023-11-21,Second Class,CUST-4654,Consumer,United States,Houston,New York,East,Office Supplies,Storage,Product C,854.86,9,0.22,-91.52
+CA-46212,2023-11-20,2023-11-22,Same Day,CUST-8102,Home Office,United States,New York,California,West,Technology,Storage,Product A,915.2,6,0.02,-9.0
+CA-53525,2023-11-21,2023-11-23,Same Day,CUST-3359,Consumer,United States,Phoenix,Illinois,Central,Furniture,Binders,Product D,272.63,6,0.39,90.25
+CA-57202,2023-11-22,2023-11-24,Second Class,CUST-9105,Consumer,United States,Los Angeles,Arizona,West,Technology,Chairs,Product B,904.91,4,0.31,69.76
+CA-42635,2023-11-23,2023-11-25,Standard Class,CUST-9636,Consumer,United States,New York,Arizona,South,Office Supplies,Phones,Product D,327.46,8,0.3,244.15
+CA-73208,2023-11-24,2023-11-26,Same Day,CUST-7441,Home Office,United States,Los Angeles,Texas,East,Technology,Chairs,Product C,556.81,5,0.27,116.86
+CA-43828,2023-11-25,2023-11-27,Same Day,CUST-6047,Home Office,United States,Los Angeles,New York,West,Furniture,Phones,Product C,60.0,7,0.3,175.85
+CA-28711,2023-11-26,2023-11-28,Same Day,CUST-9227,Consumer,United States,Chicago,Texas,South,Furniture,Tables,Product C,53.44,9,0.47,87.73
+CA-13420,2023-11-27,2023-11-29,First Class,CUST-6203,Corporate,United States,Los Angeles,California,Central,Technology,Tables,Product C,723.17,5,0.0,75.86
+CA-10301,2023-11-28,2023-11-30,Second Class,CUST-2798,Corporate,United States,Chicago,Arizona,West,Office Supplies,Storage,Product A,450.04,5,0.02,78.51
+CA-55236,2023-11-29,2023-12-01,First Class,CUST-6291,Home Office,United States,Houston,New York,Central,Technology,Tables,Product B,263.73,4,0.1,64.37
+CA-76235,2023-11-30,2023-12-02,Second Class,CUST-6495,Home Office,United States,Chicago,California,South,Office Supplies,Storage,Product C,198.51,6,0.08,115.43
+CA-64240,2023-12-01,2023-12-03,Standard Class,CUST-7284,Home Office,United States,Phoenix,California,Central,Office Supplies,Chairs,Product D,673.25,2,0.09,0.18
+CA-75726,2023-12-02,2023-12-04,Standard Class,CUST-8285,Home Office,United States,New York,New York,South,Technology,Tables,Product C,10.4,3,0.34,256.42
+CA-20492,2023-12-03,2023-12-05,Same Day,CUST-2300,Home Office,United States,Houston,California,South,Office Supplies,Chairs,Product B,807.83,1,0.23,33.23
+CA-16102,2023-12-04,2023-12-06,Second Class,CUST-7869,Corporate,United States,Houston,New York,South,Furniture,Chairs,Product D,88.46,2,0.5,-40.99
+CA-60336,2023-12-05,2023-12-07,Standard Class,CUST-4097,Home Office,United States,Phoenix,New York,West,Technology,Tables,Product D,199.57,2,0.11,-61.38
+CA-95314,2023-12-06,2023-12-08,Second Class,CUST-5616,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Chairs,Product D,392.37,8,0.16,-94.63
+CA-36641,2023-12-07,2023-12-09,Standard Class,CUST-1009,Consumer,United States,New York,Texas,Central,Furniture,Tables,Product A,490.01,8,0.49,69.14
+CA-44584,2023-12-08,2023-12-10,First Class,CUST-6752,Corporate,United States,Chicago,California,East,Technology,Tables,Product C,361.45,2,0.42,-24.96
+CA-42745,2023-12-09,2023-12-11,Standard Class,CUST-7295,Consumer,United States,Los Angeles,California,East,Furniture,Tables,Product A,327.51,6,0.23,-91.34
+CA-33093,2023-12-10,2023-12-12,First Class,CUST-5815,Corporate,United States,Chicago,Illinois,East,Furniture,Phones,Product D,964.28,5,0.28,108.01
+CA-76105,2023-12-11,2023-12-13,Standard Class,CUST-2072,Corporate,United States,Houston,Illinois,East,Furniture,Chairs,Product A,645.16,3,0.42,171.99
+CA-61885,2023-12-12,2023-12-14,Same Day,CUST-4225,Consumer,United States,New York,Illinois,Central,Office Supplies,Binders,Product A,33.2,5,0.24,-65.7
+CA-46631,2023-12-13,2023-12-15,First Class,CUST-2316,Home Office,United States,Chicago,Arizona,South,Technology,Tables,Product A,435.87,5,0.1,84.37
+CA-82991,2023-12-14,2023-12-16,Standard Class,CUST-6699,Consumer,United States,New York,Arizona,South,Technology,Chairs,Product C,876.26,5,0.41,197.45
+CA-14014,2023-12-15,2023-12-17,Same Day,CUST-7807,Consumer,United States,New York,Arizona,West,Office Supplies,Storage,Product D,308.44,3,0.27,294.32
+CA-21093,2023-12-16,2023-12-18,First Class,CUST-7674,Corporate,United States,Los Angeles,New York,South,Technology,Tables,Product D,103.61,3,0.08,166.88
+CA-28070,2023-12-17,2023-12-19,Same Day,CUST-4683,Consumer,United States,Los Angeles,California,Central,Furniture,Tables,Product C,760.8,4,0.25,-2.06
+CA-45777,2023-12-18,2023-12-20,Second Class,CUST-8227,Corporate,United States,Houston,Texas,Central,Technology,Binders,Product A,609.95,7,0.21,186.62
+CA-66958,2023-12-19,2023-12-21,Second Class,CUST-4273,Home Office,United States,Phoenix,New York,Central,Office Supplies,Phones,Product A,574.61,2,0.44,139.17
+CA-92074,2023-12-20,2023-12-22,First Class,CUST-8000,Home Office,United States,New York,California,West,Furniture,Phones,Product B,63.04,4,0.06,-15.28
+CA-20729,2023-12-21,2023-12-23,Standard Class,CUST-1145,Home Office,United States,Phoenix,California,East,Office Supplies,Tables,Product B,149.09,4,0.44,240.44
+CA-55017,2023-12-22,2023-12-24,First Class,CUST-6010,Consumer,United States,Houston,Illinois,South,Furniture,Chairs,Product B,626.32,1,0.26,70.96
+CA-76320,2023-12-23,2023-12-25,Same Day,CUST-4040,Corporate,United States,New York,Illinois,Central,Furniture,Storage,Product C,215.75,8,0.2,284.79
+CA-37751,2023-12-24,2023-12-26,Standard Class,CUST-1482,Home Office,United States,New York,New York,Central,Technology,Storage,Product D,509.03,1,0.08,189.16
+CA-88069,2023-12-25,2023-12-27,Second Class,CUST-4179,Corporate,United States,Phoenix,Illinois,East,Furniture,Chairs,Product B,549.43,8,0.35,157.83
+CA-64748,2023-12-26,2023-12-28,Standard Class,CUST-2249,Corporate,United States,Chicago,California,Central,Office Supplies,Tables,Product D,290.67,7,0.46,191.34
+CA-15801,2023-12-27,2023-12-29,Second Class,CUST-1630,Home Office,United States,Los Angeles,Illinois,South,Technology,Storage,Product D,948.94,9,0.19,91.24
+CA-29190,2023-12-28,2023-12-30,Standard Class,CUST-9853,Home Office,United States,Chicago,Arizona,West,Office Supplies,Phones,Product D,844.04,8,0.12,102.09
+CA-59689,2023-12-29,2023-12-31,Standard Class,CUST-3852,Corporate,United States,Phoenix,Illinois,Central,Furniture,Chairs,Product C,725.15,5,0.28,240.48
+CA-60993,2023-12-30,2024-01-01,Standard Class,CUST-1987,Home Office,United States,Los Angeles,California,South,Office Supplies,Binders,Product C,87.21,8,0.4,172.37
+CA-39592,2023-12-31,2024-01-02,Same Day,CUST-8622,Corporate,United States,Chicago,New York,Central,Office Supplies,Tables,Product C,115.07,3,0.0,258.9
+CA-20647,2024-01-01,2024-01-03,Same Day,CUST-8327,Corporate,United States,Los Angeles,Texas,East,Furniture,Chairs,Product C,497.85,7,0.32,256.33
+CA-18716,2024-01-02,2024-01-04,First Class,CUST-9841,Home Office,United States,New York,Illinois,Central,Technology,Storage,Product B,169.11,4,0.3,290.6
+CA-98891,2024-01-03,2024-01-05,First Class,CUST-2100,Consumer,United States,Chicago,California,Central,Office Supplies,Tables,Product A,978.48,5,0.16,180.09
+CA-97545,2024-01-04,2024-01-06,Second Class,CUST-7652,Home Office,United States,Los Angeles,Texas,West,Furniture,Phones,Product A,166.94,9,0.23,100.92
+CA-99912,2024-01-05,2024-01-07,Same Day,CUST-9632,Consumer,United States,Los Angeles,Texas,East,Technology,Tables,Product A,492.59,7,0.12,-33.48
+CA-80316,2024-01-06,2024-01-08,Second Class,CUST-8421,Corporate,United States,Los Angeles,Arizona,East,Technology,Tables,Product B,370.48,4,0.39,182.15
+CA-12368,2024-01-07,2024-01-09,First Class,CUST-6016,Corporate,United States,Chicago,Texas,West,Technology,Phones,Product A,642.99,6,0.32,16.63
+CA-87575,2024-01-08,2024-01-10,Second Class,CUST-1769,Consumer,United States,Houston,California,Central,Office Supplies,Phones,Product B,137.75,7,0.27,13.18
+CA-16655,2024-01-09,2024-01-11,First Class,CUST-2343,Corporate,United States,Chicago,California,South,Office Supplies,Tables,Product B,436.01,9,0.2,-4.68
+CA-80031,2024-01-10,2024-01-12,Same Day,CUST-5358,Consumer,United States,Phoenix,Illinois,East,Office Supplies,Phones,Product B,281.96,4,0.15,250.05
+CA-86429,2024-01-11,2024-01-13,Standard Class,CUST-7780,Consumer,United States,Chicago,Illinois,East,Technology,Chairs,Product A,888.87,3,0.41,247.19
+CA-97922,2024-01-12,2024-01-14,Same Day,CUST-7602,Corporate,United States,Los Angeles,Illinois,Central,Office Supplies,Phones,Product D,50.18,8,0.23,152.39
+CA-65766,2024-01-13,2024-01-15,Second Class,CUST-3349,Consumer,United States,New York,Texas,Central,Furniture,Phones,Product A,914.59,1,0.25,89.19
+CA-23403,2024-01-14,2024-01-16,Second Class,CUST-6699,Home Office,United States,Chicago,Texas,East,Office Supplies,Tables,Product A,834.66,9,0.26,168.85
+CA-42097,2024-01-15,2024-01-17,Same Day,CUST-2241,Home Office,United States,Chicago,Arizona,Central,Office Supplies,Chairs,Product C,304.6,1,0.22,142.89
+CA-88657,2024-01-16,2024-01-18,Same Day,CUST-2125,Corporate,United States,Los Angeles,Illinois,South,Technology,Binders,Product B,791.4,2,0.13,66.29
+CA-20966,2024-01-17,2024-01-19,First Class,CUST-7764,Corporate,United States,New York,New York,East,Office Supplies,Binders,Product D,40.9,8,0.06,51.85
+CA-62921,2024-01-18,2024-01-20,Second Class,CUST-6101,Consumer,United States,New York,Arizona,South,Furniture,Storage,Product C,967.2,9,0.05,53.12
+CA-59726,2024-01-19,2024-01-21,Second Class,CUST-8843,Consumer,United States,Phoenix,New York,South,Technology,Phones,Product D,531.33,7,0.38,135.65
+CA-60300,2024-01-20,2024-01-22,Same Day,CUST-1072,Consumer,United States,Chicago,Texas,Central,Furniture,Phones,Product D,310.25,3,0.11,159.07
+CA-32677,2024-01-21,2024-01-23,Standard Class,CUST-6472,Consumer,United States,New York,Arizona,South,Technology,Chairs,Product B,368.96,7,0.03,80.7
+CA-65609,2024-01-22,2024-01-24,Second Class,CUST-6189,Home Office,United States,New York,Arizona,Central,Technology,Binders,Product A,75.74,6,0.4,287.48
+CA-66661,2024-01-23,2024-01-25,Standard Class,CUST-3472,Home Office,United States,Houston,California,West,Office Supplies,Storage,Product B,989.46,2,0.08,-66.46
+CA-41024,2024-01-24,2024-01-26,Same Day,CUST-1707,Corporate,United States,Houston,Texas,Central,Furniture,Chairs,Product B,48.9,3,0.31,38.82
+CA-80313,2024-01-25,2024-01-27,Same Day,CUST-2804,Consumer,United States,New York,Texas,South,Technology,Phones,Product C,658.36,5,0.17,67.63
+CA-63006,2024-01-26,2024-01-28,First Class,CUST-7704,Consumer,United States,Phoenix,Arizona,West,Office Supplies,Binders,Product B,448.31,4,0.06,-93.23
+CA-25338,2024-01-27,2024-01-29,Second Class,CUST-4713,Corporate,United States,New York,Texas,Central,Technology,Storage,Product A,949.43,2,0.21,45.98
+CA-78027,2024-01-28,2024-01-30,Standard Class,CUST-6051,Consumer,United States,Los Angeles,Arizona,South,Technology,Tables,Product D,253.54,4,0.01,9.48
+CA-90135,2024-01-29,2024-01-31,First Class,CUST-3475,Consumer,United States,Chicago,California,East,Technology,Binders,Product B,536.77,8,0.42,102.41
+CA-29508,2024-01-30,2024-02-01,Second Class,CUST-4610,Consumer,United States,Phoenix,Arizona,East,Technology,Storage,Product D,487.53,5,0.26,34.56
+CA-13051,2024-01-31,2024-02-02,First Class,CUST-5255,Consumer,United States,Los Angeles,Texas,Central,Technology,Chairs,Product B,705.84,5,0.07,190.47
+CA-58747,2024-02-01,2024-02-03,Same Day,CUST-8397,Consumer,United States,Phoenix,Texas,Central,Technology,Tables,Product D,77.33,3,0.12,103.97
+CA-97142,2024-02-02,2024-02-04,Second Class,CUST-2735,Corporate,United States,Los Angeles,Arizona,East,Office Supplies,Storage,Product B,201.85,8,0.22,-48.1
+CA-97235,2024-02-03,2024-02-05,First Class,CUST-9258,Consumer,United States,Chicago,Arizona,South,Technology,Storage,Product C,222.42,6,0.09,200.02
+CA-64021,2024-02-04,2024-02-06,First Class,CUST-8979,Corporate,United States,Chicago,Arizona,South,Furniture,Phones,Product D,740.77,2,0.13,-60.31
+CA-76412,2024-02-05,2024-02-07,Standard Class,CUST-3428,Consumer,United States,Houston,Illinois,South,Office Supplies,Binders,Product B,197.25,2,0.27,235.62
+CA-68335,2024-02-06,2024-02-08,First Class,CUST-8426,Home Office,United States,Los Angeles,Texas,Central,Furniture,Phones,Product B,577.76,9,0.42,272.57
+CA-66179,2024-02-07,2024-02-09,Second Class,CUST-9533,Home Office,United States,Houston,Texas,West,Technology,Tables,Product C,223.09,7,0.2,28.98
+CA-42093,2024-02-08,2024-02-10,Second Class,CUST-6249,Home Office,United States,Los Angeles,Illinois,West,Furniture,Storage,Product C,863.01,9,0.36,270.46
+CA-79678,2024-02-09,2024-02-11,Standard Class,CUST-6291,Home Office,United States,Houston,Arizona,West,Technology,Phones,Product C,942.76,6,0.44,217.2
+CA-90738,2024-02-10,2024-02-12,Second Class,CUST-3817,Corporate,United States,Chicago,California,West,Technology,Binders,Product D,523.31,5,0.11,268.97
+CA-49734,2024-02-11,2024-02-13,Same Day,CUST-4874,Corporate,United States,Phoenix,Arizona,West,Office Supplies,Tables,Product D,358.79,1,0.4,166.51
+CA-82615,2024-02-12,2024-02-14,Second Class,CUST-5211,Consumer,United States,Houston,Arizona,Central,Office Supplies,Chairs,Product C,241.72,6,0.38,-5.74
+CA-83523,2024-02-13,2024-02-15,Second Class,CUST-1661,Home Office,United States,Los Angeles,Illinois,Central,Technology,Phones,Product A,59.28,6,0.18,257.81
+CA-27019,2024-02-14,2024-02-16,First Class,CUST-4374,Corporate,United States,Los Angeles,Texas,West,Office Supplies,Tables,Product A,275.82,3,0.49,-26.29
+CA-93613,2024-02-15,2024-02-17,First Class,CUST-1207,Consumer,United States,Chicago,Arizona,Central,Furniture,Chairs,Product B,657.69,3,0.13,-14.78
+CA-96672,2024-02-16,2024-02-18,Second Class,CUST-3665,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Phones,Product A,538.28,3,0.13,8.43
+CA-83847,2024-02-17,2024-02-19,Standard Class,CUST-3493,Corporate,United States,New York,New York,West,Office Supplies,Tables,Product B,944.6,3,0.39,21.7
+CA-92750,2024-02-18,2024-02-20,First Class,CUST-7813,Home Office,United States,Phoenix,Texas,South,Furniture,Tables,Product D,402.31,7,0.22,105.79
+CA-89634,2024-02-19,2024-02-21,Standard Class,CUST-1632,Consumer,United States,Houston,California,Central,Office Supplies,Phones,Product D,696.92,2,0.17,185.38
+CA-38251,2024-02-20,2024-02-22,Second Class,CUST-4083,Home Office,United States,Phoenix,California,South,Technology,Tables,Product A,494.43,2,0.09,270.48
+CA-35945,2024-02-21,2024-02-23,Second Class,CUST-4719,Home Office,United States,Chicago,Arizona,Central,Furniture,Storage,Product D,517.45,3,0.38,-64.62
+CA-42217,2024-02-22,2024-02-24,Same Day,CUST-8123,Home Office,United States,Houston,Texas,Central,Technology,Phones,Product C,275.1,7,0.39,281.75
+CA-18308,2024-02-23,2024-02-25,First Class,CUST-2679,Consumer,United States,Houston,Arizona,West,Furniture,Tables,Product C,460.4,3,0.28,268.53
+CA-15949,2024-02-24,2024-02-26,Second Class,CUST-1236,Home Office,United States,New York,Illinois,Central,Technology,Chairs,Product A,476.08,7,0.48,-78.4
+CA-61990,2024-02-25,2024-02-27,Same Day,CUST-8446,Consumer,United States,Chicago,California,East,Technology,Chairs,Product A,709.58,9,0.16,44.13
+CA-11150,2024-02-26,2024-02-28,First Class,CUST-5443,Home Office,United States,Los Angeles,Arizona,East,Office Supplies,Storage,Product B,941.23,4,0.11,225.26
+CA-99480,2024-02-27,2024-02-29,Second Class,CUST-7770,Consumer,United States,New York,Illinois,West,Technology,Phones,Product D,336.03,7,0.34,144.63
+CA-84740,2024-02-28,2024-03-01,Second Class,CUST-7099,Home Office,United States,New York,Arizona,South,Office Supplies,Tables,Product B,51.78,9,0.38,211.64
+CA-76617,2024-02-29,2024-03-02,First Class,CUST-9555,Corporate,United States,Phoenix,Texas,South,Furniture,Tables,Product B,501.33,8,0.11,187.61
+CA-26896,2024-03-01,2024-03-03,First Class,CUST-3368,Home Office,United States,Phoenix,Texas,South,Technology,Chairs,Product C,549.02,8,0.04,98.71
+CA-56175,2024-03-02,2024-03-04,First Class,CUST-1285,Home Office,United States,Phoenix,Texas,East,Technology,Storage,Product C,176.76,9,0.41,-83.51
+CA-17805,2024-03-03,2024-03-05,Second Class,CUST-1148,Consumer,United States,New York,Texas,South,Furniture,Chairs,Product C,762.86,5,0.49,133.71
+CA-15237,2024-03-04,2024-03-06,Second Class,CUST-5037,Consumer,United States,Los Angeles,New York,South,Furniture,Chairs,Product C,985.08,5,0.32,-80.57
+CA-30056,2024-03-05,2024-03-07,Same Day,CUST-7549,Home Office,United States,Houston,Illinois,West,Technology,Storage,Product B,946.32,3,0.14,141.49
+CA-55543,2024-03-06,2024-03-08,Standard Class,CUST-8121,Corporate,United States,Phoenix,Illinois,South,Furniture,Phones,Product C,205.13,5,0.5,220.16
+CA-66556,2024-03-07,2024-03-09,First Class,CUST-5895,Corporate,United States,Los Angeles,Texas,East,Office Supplies,Tables,Product D,876.61,8,0.45,134.0
+CA-13343,2024-03-08,2024-03-10,Second Class,CUST-6280,Consumer,United States,Chicago,New York,East,Furniture,Phones,Product C,707.45,5,0.26,298.81
+CA-23500,2024-03-09,2024-03-11,Second Class,CUST-2012,Corporate,United States,Phoenix,Texas,East,Furniture,Binders,Product C,459.31,4,0.41,82.35
+CA-63222,2024-03-10,2024-03-12,First Class,CUST-3785,Home Office,United States,Houston,New York,West,Technology,Binders,Product C,545.2,8,0.41,199.53
+CA-39375,2024-03-11,2024-03-13,Standard Class,CUST-4725,Consumer,United States,Chicago,Texas,West,Office Supplies,Binders,Product A,851.1,7,0.47,166.89
+CA-19662,2024-03-12,2024-03-14,First Class,CUST-5576,Home Office,United States,Chicago,California,Central,Furniture,Storage,Product D,485.33,6,0.42,296.57
+CA-26964,2024-03-13,2024-03-15,Standard Class,CUST-6782,Consumer,United States,Houston,California,South,Office Supplies,Chairs,Product D,379.48,5,0.32,185.29
+CA-69638,2024-03-14,2024-03-16,Second Class,CUST-7257,Consumer,United States,Phoenix,Arizona,West,Office Supplies,Phones,Product B,498.32,5,0.3,-34.39
+CA-83666,2024-03-15,2024-03-17,Standard Class,CUST-3408,Consumer,United States,New York,Texas,East,Office Supplies,Tables,Product B,583.34,2,0.23,282.21
+CA-95067,2024-03-16,2024-03-18,Same Day,CUST-1340,Consumer,United States,Houston,Illinois,East,Technology,Binders,Product C,197.19,4,0.31,167.11
+CA-77215,2024-03-17,2024-03-19,Second Class,CUST-3817,Corporate,United States,Houston,Arizona,West,Furniture,Phones,Product A,901.9,8,0.4,-76.26
+CA-79042,2024-03-18,2024-03-20,Same Day,CUST-3496,Home Office,United States,Houston,California,West,Technology,Binders,Product B,677.45,8,0.48,163.03
+CA-23284,2024-03-19,2024-03-21,First Class,CUST-6962,Home Office,United States,Chicago,Texas,West,Furniture,Binders,Product B,636.94,1,0.23,253.25
+CA-82789,2024-03-20,2024-03-22,First Class,CUST-6299,Home Office,United States,Los Angeles,Arizona,Central,Furniture,Tables,Product C,108.5,2,0.29,130.82
+CA-94664,2024-03-21,2024-03-23,First Class,CUST-8574,Consumer,United States,New York,Texas,East,Technology,Storage,Product C,608.13,5,0.22,41.61
+CA-71389,2024-03-22,2024-03-24,Standard Class,CUST-2689,Corporate,United States,Phoenix,California,Central,Office Supplies,Chairs,Product B,129.75,9,0.33,228.36
+CA-19435,2024-03-23,2024-03-25,Second Class,CUST-4267,Home Office,United States,Phoenix,Arizona,Central,Office Supplies,Storage,Product B,87.91,7,0.31,213.0
+CA-64340,2024-03-24,2024-03-26,First Class,CUST-5406,Corporate,United States,Los Angeles,California,South,Furniture,Phones,Product D,532.04,5,0.01,117.67
+CA-54078,2024-03-25,2024-03-27,First Class,CUST-9453,Consumer,United States,Houston,New York,East,Technology,Storage,Product A,408.76,1,0.27,-38.26
+CA-88832,2024-03-26,2024-03-28,Second Class,CUST-2442,Home Office,United States,New York,California,East,Office Supplies,Phones,Product D,592.92,6,0.04,0.39
+CA-61293,2024-03-27,2024-03-29,First Class,CUST-9597,Corporate,United States,Phoenix,Texas,West,Office Supplies,Phones,Product B,98.33,8,0.01,195.39
+CA-88781,2024-03-28,2024-03-30,Same Day,CUST-5437,Consumer,United States,Phoenix,Illinois,West,Furniture,Chairs,Product D,436.67,7,0.4,222.43
+CA-70403,2024-03-29,2024-03-31,Second Class,CUST-6435,Corporate,United States,Houston,California,South,Furniture,Tables,Product D,183.04,2,0.13,11.71
+CA-39124,2024-03-30,2024-04-01,Second Class,CUST-9435,Home Office,United States,Los Angeles,Illinois,Central,Technology,Chairs,Product B,987.23,5,0.17,47.19
+CA-53919,2024-03-31,2024-04-02,Second Class,CUST-5107,Home Office,United States,New York,New York,West,Furniture,Storage,Product C,565.54,4,0.03,-68.95
+CA-45247,2024-04-01,2024-04-03,Same Day,CUST-1560,Consumer,United States,Los Angeles,Arizona,West,Office Supplies,Phones,Product B,690.56,9,0.09,185.38
+CA-72752,2024-04-02,2024-04-04,Second Class,CUST-9785,Consumer,United States,Los Angeles,Arizona,East,Office Supplies,Binders,Product C,332.16,1,0.38,-98.57
+CA-66573,2024-04-03,2024-04-05,Same Day,CUST-6548,Consumer,United States,New York,Illinois,East,Office Supplies,Binders,Product B,103.79,6,0.25,-81.38
+CA-69101,2024-04-04,2024-04-06,Second Class,CUST-2826,Corporate,United States,New York,Arizona,West,Office Supplies,Phones,Product B,976.11,3,0.44,-98.26
+CA-36646,2024-04-05,2024-04-07,Standard Class,CUST-8629,Corporate,United States,Phoenix,California,East,Technology,Chairs,Product B,293.4,9,0.2,158.13
+CA-33049,2024-04-06,2024-04-08,First Class,CUST-9325,Corporate,United States,Phoenix,Illinois,South,Technology,Tables,Product A,429.57,5,0.13,66.95
+CA-89605,2024-04-07,2024-04-09,Standard Class,CUST-4138,Consumer,United States,New York,Texas,West,Furniture,Chairs,Product C,653.37,6,0.17,19.02
+CA-78385,2024-04-08,2024-04-10,First Class,CUST-8693,Home Office,United States,Chicago,California,East,Furniture,Phones,Product A,34.45,9,0.36,265.08
+CA-50158,2024-04-09,2024-04-11,Same Day,CUST-9264,Home Office,United States,Phoenix,California,South,Furniture,Phones,Product B,812.16,9,0.28,-22.88
+CA-75417,2024-04-10,2024-04-12,Standard Class,CUST-8842,Corporate,United States,Chicago,California,East,Technology,Tables,Product D,541.21,8,0.45,55.75
+CA-33289,2024-04-11,2024-04-13,Second Class,CUST-7721,Corporate,United States,New York,Texas,East,Office Supplies,Storage,Product A,285.44,9,0.3,276.12
+CA-19823,2024-04-12,2024-04-14,First Class,CUST-8002,Home Office,United States,Phoenix,New York,East,Furniture,Storage,Product C,70.99,4,0.25,70.84
+CA-70160,2024-04-13,2024-04-15,First Class,CUST-5225,Home Office,United States,Los Angeles,Arizona,West,Office Supplies,Tables,Product B,170.87,6,0.39,121.88
+CA-51975,2024-04-14,2024-04-16,Standard Class,CUST-3978,Corporate,United States,New York,Illinois,Central,Furniture,Storage,Product A,896.08,5,0.47,-67.87
+CA-19540,2024-04-15,2024-04-17,Same Day,CUST-8373,Corporate,United States,Houston,New York,East,Furniture,Binders,Product D,689.16,5,0.18,216.07
+CA-26364,2024-04-16,2024-04-18,Standard Class,CUST-6907,Home Office,United States,Chicago,Illinois,South,Furniture,Storage,Product A,257.4,4,0.12,69.1
+CA-14611,2024-04-17,2024-04-19,Same Day,CUST-7097,Consumer,United States,New York,Arizona,West,Furniture,Storage,Product C,74.94,2,0.31,220.21
+CA-37663,2024-04-18,2024-04-20,Same Day,CUST-6656,Corporate,United States,New York,Texas,West,Furniture,Storage,Product A,693.71,6,0.25,1.52
+CA-61991,2024-04-19,2024-04-21,First Class,CUST-9984,Home Office,United States,Phoenix,California,South,Office Supplies,Binders,Product D,576.68,9,0.49,68.99
+CA-67679,2024-04-20,2024-04-22,Standard Class,CUST-5259,Home Office,United States,Phoenix,California,East,Furniture,Storage,Product D,410.47,1,0.23,214.62
+CA-40977,2024-04-21,2024-04-23,Standard Class,CUST-9286,Home Office,United States,Phoenix,Texas,Central,Office Supplies,Binders,Product C,369.98,7,0.04,289.55
+CA-59115,2024-04-22,2024-04-24,Same Day,CUST-6901,Home Office,United States,Houston,New York,East,Technology,Tables,Product D,224.65,6,0.49,-76.15
+CA-98223,2024-04-23,2024-04-25,Standard Class,CUST-5917,Consumer,United States,Phoenix,New York,South,Furniture,Chairs,Product B,672.92,3,0.42,224.98
+CA-70890,2024-04-24,2024-04-26,Second Class,CUST-9429,Home Office,United States,New York,Illinois,West,Office Supplies,Tables,Product D,970.96,1,0.09,20.28
+CA-76387,2024-04-25,2024-04-27,Second Class,CUST-3530,Corporate,United States,Phoenix,Texas,Central,Technology,Chairs,Product B,183.96,4,0.45,120.3
+CA-28071,2024-04-26,2024-04-28,Standard Class,CUST-2960,Consumer,United States,Los Angeles,New York,West,Technology,Tables,Product A,601.15,9,0.17,16.04
+CA-69275,2024-04-27,2024-04-29,Standard Class,CUST-8045,Home Office,United States,Phoenix,Texas,South,Technology,Chairs,Product B,429.94,2,0.19,145.38
+CA-82369,2024-04-28,2024-04-30,Same Day,CUST-2048,Consumer,United States,Houston,Arizona,East,Office Supplies,Chairs,Product B,452.22,3,0.45,41.52
+CA-21938,2024-04-29,2024-05-01,Second Class,CUST-6772,Corporate,United States,Los Angeles,California,Central,Furniture,Phones,Product A,261.61,2,0.27,33.45
+CA-45195,2024-04-30,2024-05-02,Second Class,CUST-3529,Home Office,United States,New York,California,West,Furniture,Chairs,Product D,826.88,2,0.07,-84.82
+CA-14000,2024-05-01,2024-05-03,First Class,CUST-3964,Corporate,United States,New York,California,West,Office Supplies,Chairs,Product B,490.4,8,0.18,-41.22
+CA-80588,2024-05-02,2024-05-04,Same Day,CUST-8137,Home Office,United States,Chicago,Texas,West,Furniture,Phones,Product D,547.97,3,0.36,266.83
+CA-48304,2024-05-03,2024-05-05,First Class,CUST-1963,Home Office,United States,Los Angeles,Texas,East,Office Supplies,Storage,Product A,311.71,7,0.09,299.31
+CA-79449,2024-05-04,2024-05-06,Second Class,CUST-1536,Home Office,United States,Chicago,Illinois,Central,Furniture,Storage,Product C,189.99,8,0.3,212.21
+CA-92986,2024-05-05,2024-05-07,Same Day,CUST-8340,Home Office,United States,Los Angeles,California,East,Technology,Phones,Product D,95.05,3,0.35,14.73
+CA-99643,2024-05-06,2024-05-08,Standard Class,CUST-8179,Home Office,United States,Los Angeles,Illinois,East,Furniture,Binders,Product D,716.98,2,0.17,60.98
+CA-30764,2024-05-07,2024-05-09,Same Day,CUST-8967,Consumer,United States,Houston,California,East,Office Supplies,Chairs,Product C,204.27,8,0.35,195.8
+CA-96027,2024-05-08,2024-05-10,Standard Class,CUST-9734,Home Office,United States,Chicago,Illinois,South,Office Supplies,Chairs,Product C,693.17,3,0.44,287.41
+CA-48494,2024-05-09,2024-05-11,Standard Class,CUST-1845,Home Office,United States,Houston,Illinois,South,Technology,Phones,Product A,396.47,7,0.24,82.19
+CA-13373,2024-05-10,2024-05-12,Same Day,CUST-6777,Consumer,United States,Los Angeles,Arizona,South,Office Supplies,Phones,Product D,421.62,1,0.19,231.81
+CA-22161,2024-05-11,2024-05-13,Standard Class,CUST-4036,Consumer,United States,New York,Illinois,Central,Furniture,Binders,Product D,474.49,6,0.13,290.03
+CA-37350,2024-05-12,2024-05-14,First Class,CUST-6947,Consumer,United States,Los Angeles,Texas,East,Furniture,Storage,Product A,374.03,9,0.3,249.39
+CA-35351,2024-05-13,2024-05-15,Second Class,CUST-3494,Consumer,United States,Houston,Illinois,East,Technology,Tables,Product D,109.61,3,0.44,-9.14
+CA-98668,2024-05-14,2024-05-16,Standard Class,CUST-3719,Consumer,United States,Chicago,California,South,Office Supplies,Storage,Product B,316.54,7,0.16,-96.79
+CA-25305,2024-05-15,2024-05-17,First Class,CUST-2884,Consumer,United States,Chicago,Illinois,East,Technology,Chairs,Product B,667.1,6,0.2,96.83
+CA-85353,2024-05-16,2024-05-18,Standard Class,CUST-5349,Home Office,United States,Houston,New York,East,Furniture,Phones,Product B,669.13,8,0.2,112.54
+CA-86797,2024-05-17,2024-05-19,Second Class,CUST-6179,Home Office,United States,Chicago,California,West,Technology,Binders,Product D,293.36,3,0.28,-19.5
+CA-75953,2024-05-18,2024-05-20,First Class,CUST-7610,Corporate,United States,Phoenix,New York,East,Office Supplies,Storage,Product B,465.5,3,0.11,13.87
+CA-67458,2024-05-19,2024-05-21,Second Class,CUST-7430,Home Office,United States,New York,California,West,Technology,Binders,Product B,201.51,4,0.41,206.06
+CA-30358,2024-05-20,2024-05-22,Second Class,CUST-8154,Home Office,United States,New York,Texas,East,Office Supplies,Storage,Product A,218.27,3,0.15,88.14
+CA-13267,2024-05-21,2024-05-23,First Class,CUST-7488,Consumer,United States,New York,Texas,Central,Office Supplies,Chairs,Product A,32.82,9,0.35,26.94
+CA-92745,2024-05-22,2024-05-24,First Class,CUST-5737,Consumer,United States,Chicago,Texas,South,Furniture,Tables,Product C,897.78,4,0.26,149.05
+CA-99588,2024-05-23,2024-05-25,First Class,CUST-7525,Home Office,United States,Chicago,New York,West,Furniture,Binders,Product C,218.6,6,0.29,161.1
+CA-48513,2024-05-24,2024-05-26,Same Day,CUST-4850,Corporate,United States,Los Angeles,Arizona,South,Furniture,Binders,Product C,235.26,8,0.09,207.76
+CA-36092,2024-05-25,2024-05-27,First Class,CUST-1689,Consumer,United States,Los Angeles,California,West,Office Supplies,Tables,Product C,286.81,8,0.37,-37.32
+CA-21338,2024-05-26,2024-05-28,First Class,CUST-6175,Home Office,United States,New York,Texas,West,Technology,Binders,Product A,136.13,5,0.09,196.61
+CA-10412,2024-05-27,2024-05-29,First Class,CUST-9648,Home Office,United States,Phoenix,California,West,Office Supplies,Binders,Product A,642.87,5,0.06,139.77
+CA-17543,2024-05-28,2024-05-30,First Class,CUST-6078,Corporate,United States,Los Angeles,New York,Central,Furniture,Storage,Product A,84.39,6,0.27,-76.97
+CA-43496,2024-05-29,2024-05-31,Standard Class,CUST-6448,Corporate,United States,Los Angeles,Arizona,East,Furniture,Storage,Product B,142.86,7,0.35,210.98
+CA-70692,2024-05-30,2024-06-01,Same Day,CUST-2179,Consumer,United States,Chicago,New York,West,Technology,Tables,Product B,648.31,7,0.03,53.23
+CA-99084,2024-05-31,2024-06-02,Second Class,CUST-7406,Corporate,United States,Phoenix,California,Central,Furniture,Chairs,Product C,346.26,4,0.03,32.15
+CA-54425,2024-06-01,2024-06-03,First Class,CUST-9591,Home Office,United States,New York,Arizona,West,Furniture,Binders,Product B,710.87,6,0.4,79.23
+CA-48756,2024-06-02,2024-06-04,Standard Class,CUST-7907,Home Office,United States,Los Angeles,Arizona,East,Furniture,Chairs,Product D,561.85,7,0.4,38.47
+CA-28888,2024-06-03,2024-06-05,Standard Class,CUST-9800,Corporate,United States,Phoenix,New York,West,Technology,Tables,Product A,263.46,5,0.12,35.31
+CA-45735,2024-06-04,2024-06-06,Standard Class,CUST-2638,Corporate,United States,Phoenix,Texas,Central,Office Supplies,Tables,Product C,654.32,5,0.31,223.23
+CA-57295,2024-06-05,2024-06-07,Second Class,CUST-6671,Corporate,United States,New York,California,East,Furniture,Storage,Product C,125.11,2,0.22,-50.2
+CA-93042,2024-06-06,2024-06-08,First Class,CUST-7928,Corporate,United States,Phoenix,Illinois,Central,Technology,Binders,Product D,541.05,7,0.32,288.24
+CA-95999,2024-06-07,2024-06-09,Same Day,CUST-2382,Consumer,United States,Phoenix,Illinois,East,Furniture,Phones,Product B,442.78,6,0.43,121.97
+CA-27955,2024-06-08,2024-06-10,Same Day,CUST-2403,Corporate,United States,Phoenix,New York,East,Technology,Tables,Product C,275.19,1,0.04,-26.83
+CA-47841,2024-06-09,2024-06-11,Standard Class,CUST-4292,Consumer,United States,Los Angeles,California,South,Furniture,Binders,Product B,607.96,4,0.39,-47.51
+CA-80640,2024-06-10,2024-06-12,Second Class,CUST-1419,Home Office,United States,New York,California,South,Technology,Chairs,Product B,872.62,3,0.25,136.6
+CA-75510,2024-06-11,2024-06-13,Second Class,CUST-5517,Corporate,United States,Phoenix,New York,South,Furniture,Storage,Product D,998.92,3,0.28,153.2
+CA-44911,2024-06-12,2024-06-14,Second Class,CUST-4302,Consumer,United States,Phoenix,California,East,Office Supplies,Chairs,Product C,611.69,7,0.33,-78.79
+CA-69031,2024-06-13,2024-06-15,Same Day,CUST-8857,Corporate,United States,Los Angeles,Texas,West,Furniture,Tables,Product B,410.66,4,0.46,-2.8
+CA-98726,2024-06-14,2024-06-16,Standard Class,CUST-8870,Home Office,United States,New York,New York,Central,Technology,Tables,Product B,232.96,8,0.03,218.18
+CA-17357,2024-06-15,2024-06-17,First Class,CUST-6693,Home Office,United States,Chicago,Texas,Central,Furniture,Chairs,Product D,264.53,9,0.01,-80.15
+CA-42479,2024-06-16,2024-06-18,Same Day,CUST-1767,Home Office,United States,Los Angeles,California,Central,Office Supplies,Tables,Product D,484.66,3,0.09,242.04
+CA-71476,2024-06-17,2024-06-19,Standard Class,CUST-3044,Corporate,United States,New York,New York,South,Furniture,Binders,Product B,373.6,5,0.49,163.26
+CA-54811,2024-06-18,2024-06-20,Standard Class,CUST-2549,Corporate,United States,Phoenix,California,East,Technology,Tables,Product D,914.68,4,0.36,73.77
+CA-46208,2024-06-19,2024-06-21,First Class,CUST-7140,Consumer,United States,New York,New York,South,Technology,Storage,Product B,374.61,6,0.31,38.57
+CA-30150,2024-06-20,2024-06-22,First Class,CUST-4716,Home Office,United States,New York,California,West,Office Supplies,Binders,Product C,379.71,4,0.02,-92.3
+CA-81180,2024-06-21,2024-06-23,First Class,CUST-5481,Corporate,United States,New York,Texas,East,Technology,Phones,Product A,389.7,8,0.44,230.09
+CA-53286,2024-06-22,2024-06-24,Second Class,CUST-8898,Home Office,United States,Chicago,Texas,Central,Furniture,Tables,Product D,838.25,3,0.41,-42.91
+CA-78450,2024-06-23,2024-06-25,First Class,CUST-7548,Home Office,United States,New York,California,South,Furniture,Tables,Product A,654.28,5,0.33,23.82
+CA-31352,2024-06-24,2024-06-26,Standard Class,CUST-3293,Consumer,United States,Chicago,New York,South,Furniture,Storage,Product B,618.03,1,0.17,127.64
+CA-65069,2024-06-25,2024-06-27,First Class,CUST-5837,Consumer,United States,Phoenix,Illinois,West,Technology,Storage,Product B,340.8,6,0.04,-1.6
+CA-24397,2024-06-26,2024-06-28,Standard Class,CUST-8758,Consumer,United States,Chicago,Texas,West,Furniture,Chairs,Product B,819.73,5,0.29,98.86
+CA-51555,2024-06-27,2024-06-29,Same Day,CUST-7793,Consumer,United States,Phoenix,Texas,South,Furniture,Chairs,Product A,47.98,8,0.36,223.74
+CA-56959,2024-06-28,2024-06-30,Second Class,CUST-8638,Home Office,United States,Phoenix,Illinois,West,Furniture,Chairs,Product B,872.09,9,0.05,88.22
+CA-10728,2024-06-29,2024-07-01,Same Day,CUST-8993,Consumer,United States,Chicago,California,Central,Office Supplies,Storage,Product D,517.62,8,0.32,279.59
+CA-60517,2024-06-30,2024-07-02,Same Day,CUST-7007,Consumer,United States,Los Angeles,New York,West,Technology,Chairs,Product C,404.27,8,0.14,239.0
+CA-76234,2024-07-01,2024-07-03,Standard Class,CUST-6542,Consumer,United States,Houston,California,West,Technology,Chairs,Product C,502.2,3,0.38,33.22
+CA-49954,2024-07-02,2024-07-04,Same Day,CUST-7356,Consumer,United States,New York,Arizona,South,Technology,Phones,Product D,670.74,4,0.27,59.98
+CA-57280,2024-07-03,2024-07-05,Standard Class,CUST-9433,Home Office,United States,Houston,Texas,South,Office Supplies,Chairs,Product C,22.64,4,0.06,69.33
+CA-89459,2024-07-04,2024-07-06,First Class,CUST-8380,Consumer,United States,New York,Arizona,East,Technology,Tables,Product A,872.84,5,0.26,150.47
+CA-26779,2024-07-05,2024-07-07,First Class,CUST-3385,Home Office,United States,New York,Texas,East,Office Supplies,Storage,Product B,452.27,9,0.2,14.72
+CA-73932,2024-07-06,2024-07-08,Standard Class,CUST-5268,Corporate,United States,Phoenix,Texas,South,Office Supplies,Binders,Product B,349.54,9,0.09,287.7
+CA-82936,2024-07-07,2024-07-09,First Class,CUST-1671,Home Office,United States,New York,Arizona,West,Technology,Phones,Product B,146.86,1,0.42,143.47
+CA-34466,2024-07-08,2024-07-10,Second Class,CUST-1163,Home Office,United States,New York,Arizona,West,Furniture,Storage,Product A,445.07,8,0.01,59.76
+CA-46939,2024-07-09,2024-07-11,Same Day,CUST-9656,Consumer,United States,Chicago,California,East,Furniture,Storage,Product A,501.36,1,0.16,158.0
+CA-79896,2024-07-10,2024-07-12,Second Class,CUST-5592,Corporate,United States,Houston,Arizona,East,Technology,Tables,Product A,409.61,2,0.01,58.16
+CA-45270,2024-07-11,2024-07-13,Same Day,CUST-5795,Corporate,United States,Chicago,California,East,Technology,Chairs,Product D,681.87,7,0.05,227.12
+CA-69163,2024-07-12,2024-07-14,First Class,CUST-5798,Corporate,United States,New York,California,Central,Office Supplies,Tables,Product A,426.69,8,0.15,127.14
+CA-92637,2024-07-13,2024-07-15,Second Class,CUST-7036,Corporate,United States,Phoenix,California,Central,Technology,Chairs,Product C,961.8,1,0.03,-83.21
+CA-61934,2024-07-14,2024-07-16,First Class,CUST-3355,Home Office,United States,Chicago,Texas,East,Office Supplies,Chairs,Product D,603.28,3,0.3,-29.3
+CA-74895,2024-07-15,2024-07-17,Same Day,CUST-6887,Corporate,United States,Chicago,Texas,West,Technology,Storage,Product D,809.4,7,0.04,246.0
+CA-42307,2024-07-16,2024-07-18,Standard Class,CUST-8961,Home Office,United States,Los Angeles,Arizona,East,Furniture,Chairs,Product D,118.26,9,0.35,125.16
+CA-64098,2024-07-17,2024-07-19,Standard Class,CUST-6827,Home Office,United States,New York,Texas,Central,Furniture,Phones,Product A,403.32,8,0.03,280.14
+CA-70921,2024-07-18,2024-07-20,Second Class,CUST-9737,Home Office,United States,Phoenix,Arizona,West,Technology,Phones,Product D,343.48,8,0.03,-71.03
+CA-15486,2024-07-19,2024-07-21,First Class,CUST-5719,Corporate,United States,Chicago,Texas,Central,Office Supplies,Phones,Product A,573.79,9,0.15,18.1
+CA-18335,2024-07-20,2024-07-22,First Class,CUST-1593,Consumer,United States,Chicago,New York,West,Furniture,Storage,Product A,862.5,3,0.45,-22.58
+CA-96900,2024-07-21,2024-07-23,Second Class,CUST-5839,Consumer,United States,Phoenix,New York,Central,Office Supplies,Tables,Product D,87.55,8,0.32,121.54
+CA-99112,2024-07-22,2024-07-24,Standard Class,CUST-8394,Corporate,United States,New York,Arizona,West,Technology,Binders,Product B,81.85,1,0.39,53.12
+CA-21130,2024-07-23,2024-07-25,Same Day,CUST-4493,Consumer,United States,Los Angeles,Texas,West,Technology,Chairs,Product B,851.81,8,0.07,-37.09
+CA-97508,2024-07-24,2024-07-26,Second Class,CUST-7164,Consumer,United States,Chicago,Texas,West,Furniture,Binders,Product D,220.72,7,0.42,157.1
+CA-70566,2024-07-25,2024-07-27,Same Day,CUST-3672,Home Office,United States,Los Angeles,California,West,Technology,Tables,Product B,672.07,8,0.0,114.52
+CA-76703,2024-07-26,2024-07-28,Standard Class,CUST-5200,Home Office,United States,Houston,Illinois,South,Furniture,Tables,Product C,547.45,1,0.11,9.89
+CA-37192,2024-07-27,2024-07-29,First Class,CUST-1016,Corporate,United States,New York,Arizona,Central,Office Supplies,Storage,Product C,834.56,6,0.31,91.91
+CA-11062,2024-07-28,2024-07-30,Standard Class,CUST-4191,Corporate,United States,Houston,Illinois,Central,Furniture,Phones,Product A,133.84,7,0.19,198.3
+CA-94076,2024-07-29,2024-07-31,Second Class,CUST-1392,Consumer,United States,Houston,Illinois,South,Furniture,Phones,Product B,138.49,5,0.49,-17.89
+CA-99780,2024-07-30,2024-08-01,First Class,CUST-9616,Home Office,United States,Houston,Arizona,West,Office Supplies,Tables,Product C,561.25,5,0.02,17.16
+CA-31545,2024-07-31,2024-08-02,Second Class,CUST-7272,Corporate,United States,New York,Texas,West,Furniture,Storage,Product D,946.91,7,0.5,38.44
+CA-31689,2024-08-01,2024-08-03,Second Class,CUST-1571,Corporate,United States,New York,Arizona,Central,Furniture,Storage,Product B,420.85,3,0.31,198.69
+CA-21174,2024-08-02,2024-08-04,Standard Class,CUST-4631,Corporate,United States,Phoenix,Illinois,South,Technology,Chairs,Product C,333.67,6,0.28,238.77
+CA-98461,2024-08-03,2024-08-05,Second Class,CUST-7172,Corporate,United States,Los Angeles,Texas,West,Office Supplies,Phones,Product C,610.62,7,0.03,50.56
+CA-19348,2024-08-04,2024-08-06,Standard Class,CUST-8177,Corporate,United States,Los Angeles,New York,West,Furniture,Tables,Product D,931.14,1,0.14,18.65
+CA-33714,2024-08-05,2024-08-07,First Class,CUST-9433,Corporate,United States,Phoenix,Arizona,West,Office Supplies,Binders,Product A,838.56,2,0.46,255.78
+CA-48102,2024-08-06,2024-08-08,Standard Class,CUST-4897,Consumer,United States,Phoenix,Arizona,East,Office Supplies,Phones,Product D,995.53,4,0.18,299.75
+CA-84460,2024-08-07,2024-08-09,First Class,CUST-9123,Home Office,United States,Houston,Texas,South,Furniture,Chairs,Product A,32.34,8,0.33,168.14
+CA-99930,2024-08-08,2024-08-10,Standard Class,CUST-3279,Home Office,United States,Phoenix,New York,West,Technology,Storage,Product C,121.73,6,0.5,295.99
+CA-16801,2024-08-09,2024-08-11,Same Day,CUST-9980,Corporate,United States,Chicago,New York,East,Office Supplies,Tables,Product A,613.37,1,0.13,163.99
+CA-82267,2024-08-10,2024-08-12,Same Day,CUST-8451,Home Office,United States,Los Angeles,Texas,South,Furniture,Phones,Product C,822.37,5,0.29,193.38
+CA-58136,2024-08-11,2024-08-13,Second Class,CUST-9906,Home Office,United States,Phoenix,California,West,Office Supplies,Binders,Product C,292.39,7,0.35,55.46
+CA-33625,2024-08-12,2024-08-14,Standard Class,CUST-1775,Home Office,United States,Chicago,Arizona,Central,Technology,Chairs,Product B,246.82,6,0.08,73.19
+CA-92873,2024-08-13,2024-08-15,Standard Class,CUST-7869,Corporate,United States,Chicago,Arizona,East,Technology,Chairs,Product A,789.11,9,0.07,-42.35
+CA-82592,2024-08-14,2024-08-16,First Class,CUST-3247,Corporate,United States,Chicago,Illinois,East,Technology,Phones,Product A,65.82,8,0.23,229.1
+CA-87052,2024-08-15,2024-08-17,Second Class,CUST-8088,Home Office,United States,Chicago,Texas,West,Furniture,Binders,Product A,375.69,4,0.19,272.42
+CA-54261,2024-08-16,2024-08-18,Standard Class,CUST-1078,Home Office,United States,Houston,Illinois,West,Furniture,Chairs,Product D,510.75,5,0.36,149.38
+CA-11542,2024-08-17,2024-08-19,Second Class,CUST-9080,Corporate,United States,Chicago,Illinois,East,Technology,Tables,Product B,564.75,7,0.03,37.46
+CA-31677,2024-08-18,2024-08-20,Same Day,CUST-8099,Consumer,United States,Houston,New York,Central,Furniture,Chairs,Product B,731.33,8,0.49,-38.39
+CA-56732,2024-08-19,2024-08-21,Standard Class,CUST-4926,Home Office,United States,Houston,Arizona,Central,Technology,Binders,Product B,361.3,5,0.01,6.06
+CA-60343,2024-08-20,2024-08-22,Standard Class,CUST-8340,Consumer,United States,Chicago,Illinois,South,Furniture,Storage,Product D,616.56,9,0.3,2.16
+CA-49081,2024-08-21,2024-08-23,Second Class,CUST-8083,Home Office,United States,Los Angeles,New York,West,Technology,Storage,Product A,589.52,4,0.28,145.41
+CA-72856,2024-08-22,2024-08-24,Standard Class,CUST-7230,Consumer,United States,Chicago,Texas,Central,Office Supplies,Phones,Product A,552.14,4,0.07,278.01
+CA-98858,2024-08-23,2024-08-25,Second Class,CUST-5940,Consumer,United States,Chicago,Illinois,South,Technology,Binders,Product A,644.08,8,0.08,-80.69
+CA-29065,2024-08-24,2024-08-26,Standard Class,CUST-4271,Consumer,United States,Chicago,Arizona,Central,Technology,Chairs,Product B,266.85,1,0.4,-99.59
+CA-93460,2024-08-25,2024-08-27,First Class,CUST-4456,Corporate,United States,Los Angeles,Illinois,West,Furniture,Chairs,Product B,93.8,8,0.44,140.07
+CA-98092,2024-08-26,2024-08-28,Second Class,CUST-8788,Consumer,United States,New York,Texas,South,Furniture,Storage,Product C,128.08,5,0.14,13.62
+CA-64693,2024-08-27,2024-08-29,Standard Class,CUST-9599,Consumer,United States,New York,Illinois,South,Furniture,Storage,Product D,232.34,1,0.22,252.22
+CA-36962,2024-08-28,2024-08-30,Same Day,CUST-8650,Consumer,United States,Houston,Arizona,South,Furniture,Tables,Product D,505.2,4,0.18,30.9
+CA-38295,2024-08-29,2024-08-31,Standard Class,CUST-3711,Home Office,United States,Houston,New York,Central,Furniture,Storage,Product B,842.04,2,0.04,15.9
+CA-23807,2024-08-30,2024-09-01,Same Day,CUST-2668,Consumer,United States,Los Angeles,Arizona,West,Furniture,Tables,Product C,704.28,4,0.34,7.8
+CA-52348,2024-08-31,2024-09-02,Same Day,CUST-1147,Home Office,United States,Phoenix,New York,South,Office Supplies,Chairs,Product A,791.15,8,0.41,-42.06
+CA-36432,2024-09-01,2024-09-03,First Class,CUST-7420,Consumer,United States,New York,California,East,Technology,Tables,Product B,357.47,5,0.15,132.61
+CA-93285,2024-09-02,2024-09-04,Second Class,CUST-1365,Consumer,United States,Houston,Arizona,West,Technology,Tables,Product D,410.61,1,0.5,-32.71
+CA-67854,2024-09-03,2024-09-05,Standard Class,CUST-5531,Corporate,United States,New York,Arizona,East,Technology,Phones,Product D,399.75,7,0.04,69.85
+CA-50262,2024-09-04,2024-09-06,First Class,CUST-6330,Home Office,United States,Los Angeles,Texas,East,Office Supplies,Storage,Product D,199.95,1,0.33,84.39
+CA-47080,2024-09-05,2024-09-07,Standard Class,CUST-6510,Consumer,United States,Los Angeles,Illinois,South,Technology,Tables,Product A,70.6,9,0.22,-91.8
+CA-11324,2024-09-06,2024-09-08,Same Day,CUST-9754,Home Office,United States,Phoenix,New York,South,Office Supplies,Chairs,Product D,595.01,3,0.22,-93.28
+CA-45909,2024-09-07,2024-09-09,Second Class,CUST-9964,Home Office,United States,Phoenix,New York,Central,Office Supplies,Binders,Product A,989.32,3,0.23,108.09
+CA-99339,2024-09-08,2024-09-10,Standard Class,CUST-7493,Corporate,United States,Los Angeles,Texas,Central,Office Supplies,Tables,Product A,175.16,6,0.13,178.41
+CA-29870,2024-09-09,2024-09-11,Standard Class,CUST-6439,Corporate,United States,Houston,Texas,Central,Technology,Storage,Product A,56.22,6,0.36,276.86
+CA-44578,2024-09-10,2024-09-12,Same Day,CUST-7511,Corporate,United States,New York,Illinois,West,Office Supplies,Phones,Product B,781.74,6,0.36,-28.35
+CA-82124,2024-09-11,2024-09-13,Standard Class,CUST-8504,Corporate,United States,Chicago,Illinois,Central,Technology,Chairs,Product A,260.06,1,0.14,-58.7
+CA-36790,2024-09-12,2024-09-14,Standard Class,CUST-2246,Corporate,United States,Phoenix,Arizona,East,Technology,Phones,Product C,831.35,5,0.42,-79.16
+CA-35289,2024-09-13,2024-09-15,Same Day,CUST-4839,Corporate,United States,Chicago,California,Central,Furniture,Binders,Product D,706.9,6,0.16,74.42
+CA-65129,2024-09-14,2024-09-16,First Class,CUST-9551,Corporate,United States,Houston,Illinois,South,Furniture,Tables,Product B,946.22,8,0.36,149.26
+CA-25485,2024-09-15,2024-09-17,Same Day,CUST-3376,Corporate,United States,Phoenix,Texas,Central,Office Supplies,Tables,Product D,414.84,1,0.06,236.22
+CA-54482,2024-09-16,2024-09-18,First Class,CUST-4009,Consumer,United States,Chicago,Illinois,West,Office Supplies,Storage,Product A,665.35,5,0.08,173.06
+CA-96188,2024-09-17,2024-09-19,Second Class,CUST-2827,Home Office,United States,Houston,New York,West,Technology,Tables,Product B,470.21,3,0.16,-16.66
+CA-14748,2024-09-18,2024-09-20,First Class,CUST-7979,Corporate,United States,New York,California,East,Office Supplies,Chairs,Product C,634.28,2,0.3,84.71
+CA-96769,2024-09-19,2024-09-21,First Class,CUST-9569,Corporate,United States,Houston,Arizona,West,Office Supplies,Binders,Product A,455.1,8,0.32,264.14
+CA-19435,2024-09-20,2024-09-22,Second Class,CUST-5285,Home Office,United States,Phoenix,New York,Central,Technology,Phones,Product D,196.75,7,0.2,30.7
+CA-13709,2024-09-21,2024-09-23,First Class,CUST-7910,Consumer,United States,Los Angeles,New York,South,Office Supplies,Binders,Product C,512.82,7,0.04,99.49
+CA-40355,2024-09-22,2024-09-24,Same Day,CUST-9561,Home Office,United States,New York,California,West,Office Supplies,Tables,Product A,533.3,5,0.19,283.43
+CA-65771,2024-09-23,2024-09-25,First Class,CUST-3196,Home Office,United States,Chicago,Arizona,East,Technology,Phones,Product C,812.5,9,0.34,193.88
+CA-67799,2024-09-24,2024-09-26,Second Class,CUST-4747,Corporate,United States,Phoenix,Texas,Central,Technology,Storage,Product A,738.17,5,0.34,199.1
+CA-23116,2024-09-25,2024-09-27,Same Day,CUST-9843,Home Office,United States,Los Angeles,Arizona,East,Furniture,Binders,Product B,667.15,2,0.08,0.93
+CA-35470,2024-09-26,2024-09-28,Second Class,CUST-6978,Home Office,United States,Houston,Illinois,West,Technology,Phones,Product A,122.25,3,0.0,65.88
+CA-52344,2024-09-27,2024-09-29,Second Class,CUST-6607,Corporate,United States,Los Angeles,New York,West,Furniture,Phones,Product B,723.41,4,0.38,-67.06
+CA-52918,2024-09-28,2024-09-30,Standard Class,CUST-1769,Corporate,United States,Phoenix,Illinois,East,Office Supplies,Phones,Product A,505.3,5,0.05,142.61
+CA-62224,2024-09-29,2024-10-01,Standard Class,CUST-1780,Corporate,United States,Phoenix,Texas,Central,Technology,Chairs,Product A,895.16,3,0.04,-58.51
+CA-49298,2024-09-30,2024-10-02,Second Class,CUST-7303,Corporate,United States,Los Angeles,Illinois,West,Technology,Binders,Product D,920.67,7,0.0,234.36
+CA-90219,2024-10-01,2024-10-03,Second Class,CUST-4983,Home Office,United States,Houston,Arizona,South,Technology,Phones,Product C,64.61,5,0.22,225.82
+CA-71629,2024-10-02,2024-10-04,Second Class,CUST-9714,Home Office,United States,Los Angeles,Illinois,West,Office Supplies,Binders,Product C,822.44,5,0.25,113.44
+CA-76040,2024-10-03,2024-10-05,Standard Class,CUST-1521,Consumer,United States,Phoenix,Texas,Central,Furniture,Phones,Product C,47.32,6,0.32,-43.53
+CA-38016,2024-10-04,2024-10-06,Standard Class,CUST-8569,Consumer,United States,Phoenix,Texas,West,Office Supplies,Storage,Product A,373.5,7,0.15,-89.77
+CA-33960,2024-10-05,2024-10-07,First Class,CUST-6784,Home Office,United States,Chicago,Texas,East,Office Supplies,Storage,Product A,546.88,8,0.36,218.68
+CA-43591,2024-10-06,2024-10-08,First Class,CUST-5583,Consumer,United States,Chicago,Arizona,West,Technology,Storage,Product A,156.62,9,0.08,140.06
+CA-92848,2024-10-07,2024-10-09,Second Class,CUST-6946,Home Office,United States,New York,Texas,West,Furniture,Tables,Product B,748.85,4,0.42,184.37
+CA-77641,2024-10-08,2024-10-10,Same Day,CUST-5941,Consumer,United States,Phoenix,New York,Central,Office Supplies,Phones,Product B,18.27,5,0.29,21.52
+CA-46395,2024-10-09,2024-10-11,Same Day,CUST-7267,Corporate,United States,Chicago,Texas,East,Technology,Tables,Product D,176.91,5,0.29,103.79
+CA-32700,2024-10-10,2024-10-12,Standard Class,CUST-8128,Consumer,United States,Los Angeles,Illinois,Central,Office Supplies,Binders,Product A,584.99,8,0.1,198.87
+CA-44620,2024-10-11,2024-10-13,Standard Class,CUST-3461,Corporate,United States,Houston,Illinois,West,Office Supplies,Tables,Product C,717.24,9,0.04,85.03
+CA-30559,2024-10-12,2024-10-14,Standard Class,CUST-1685,Corporate,United States,Los Angeles,Illinois,South,Technology,Binders,Product C,917.48,7,0.23,140.55
+CA-71642,2024-10-13,2024-10-15,Second Class,CUST-3160,Corporate,United States,Houston,Arizona,West,Technology,Binders,Product D,708.44,5,0.31,215.89
+CA-86539,2024-10-14,2024-10-16,Same Day,CUST-8031,Corporate,United States,Chicago,Illinois,Central,Furniture,Binders,Product C,675.06,3,0.05,-13.91
+CA-31732,2024-10-15,2024-10-17,First Class,CUST-6341,Consumer,United States,New York,Arizona,South,Office Supplies,Tables,Product D,400.4,1,0.48,-73.63
+CA-40354,2024-10-16,2024-10-18,Second Class,CUST-1038,Home Office,United States,Los Angeles,Arizona,Central,Technology,Phones,Product A,11.27,9,0.49,112.73
+CA-23843,2024-10-17,2024-10-19,First Class,CUST-5875,Corporate,United States,Los Angeles,Texas,Central,Technology,Tables,Product C,128.96,5,0.27,-75.15
+CA-81726,2024-10-18,2024-10-20,First Class,CUST-2256,Consumer,United States,Los Angeles,New York,East,Furniture,Phones,Product A,539.21,9,0.48,206.62
+CA-27640,2024-10-19,2024-10-21,Second Class,CUST-8697,Corporate,United States,Houston,Texas,South,Furniture,Phones,Product B,678.38,4,0.09,187.68
+CA-62528,2024-10-20,2024-10-22,First Class,CUST-3196,Consumer,United States,Chicago,Texas,West,Technology,Binders,Product C,423.27,5,0.01,252.69
+CA-48413,2024-10-21,2024-10-23,Same Day,CUST-8165,Consumer,United States,Los Angeles,Arizona,Central,Furniture,Tables,Product B,733.37,4,0.02,155.82
+CA-62638,2024-10-22,2024-10-24,First Class,CUST-1301,Consumer,United States,Los Angeles,Arizona,West,Technology,Phones,Product C,526.64,2,0.29,-73.12
+CA-62736,2024-10-23,2024-10-25,Same Day,CUST-8527,Home Office,United States,New York,Illinois,East,Office Supplies,Storage,Product A,83.43,1,0.03,1.26
+CA-78866,2024-10-24,2024-10-26,Same Day,CUST-7381,Consumer,United States,New York,Illinois,East,Furniture,Phones,Product D,200.1,8,0.48,223.17
+CA-29087,2024-10-25,2024-10-27,Same Day,CUST-1646,Consumer,United States,Chicago,Texas,South,Office Supplies,Storage,Product A,841.6,4,0.07,-33.15
+CA-51430,2024-10-26,2024-10-28,Standard Class,CUST-9789,Home Office,United States,Chicago,California,East,Office Supplies,Tables,Product A,727.66,5,0.15,179.39
+CA-34504,2024-10-27,2024-10-29,First Class,CUST-9853,Home Office,United States,Phoenix,California,East,Office Supplies,Tables,Product A,895.81,6,0.41,212.1
+CA-17114,2024-10-28,2024-10-30,Second Class,CUST-5330,Consumer,United States,New York,Illinois,West,Technology,Tables,Product C,126.38,8,0.11,32.04
+CA-88859,2024-10-29,2024-10-31,Second Class,CUST-8003,Home Office,United States,Phoenix,California,East,Office Supplies,Phones,Product D,990.32,8,0.12,28.92
+CA-20975,2024-10-30,2024-11-01,First Class,CUST-4537,Corporate,United States,Houston,Illinois,East,Office Supplies,Chairs,Product B,217.31,7,0.32,123.12
+CA-21023,2024-10-31,2024-11-02,Standard Class,CUST-5558,Corporate,United States,Phoenix,Arizona,Central,Office Supplies,Phones,Product A,21.66,4,0.14,244.51
+CA-31447,2024-11-01,2024-11-03,Standard Class,CUST-7579,Home Office,United States,Los Angeles,Texas,East,Technology,Phones,Product C,997.45,6,0.11,-10.44
+CA-33959,2024-11-02,2024-11-04,Same Day,CUST-9474,Home Office,United States,Phoenix,New York,Central,Office Supplies,Binders,Product B,288.26,4,0.13,276.5
+CA-76203,2024-11-03,2024-11-05,First Class,CUST-5082,Consumer,United States,Chicago,Texas,East,Office Supplies,Binders,Product A,671.34,7,0.25,139.65
+CA-39703,2024-11-04,2024-11-06,First Class,CUST-5183,Home Office,United States,Houston,Illinois,East,Furniture,Phones,Product B,184.92,1,0.48,296.85
+CA-19337,2024-11-05,2024-11-07,Second Class,CUST-9652,Consumer,United States,Los Angeles,Illinois,South,Technology,Storage,Product A,584.43,5,0.42,-64.15
+CA-56427,2024-11-06,2024-11-08,First Class,CUST-4754,Corporate,United States,Phoenix,Texas,South,Office Supplies,Binders,Product B,904.99,4,0.14,-49.38
+CA-71529,2024-11-07,2024-11-09,Standard Class,CUST-2724,Home Office,United States,Houston,Illinois,Central,Furniture,Phones,Product B,326.98,7,0.18,230.66
+CA-94665,2024-11-08,2024-11-10,First Class,CUST-2376,Consumer,United States,Houston,California,East,Technology,Chairs,Product D,673.55,9,0.23,245.9
+CA-41921,2024-11-09,2024-11-11,Second Class,CUST-9706,Consumer,United States,Los Angeles,California,West,Technology,Storage,Product D,196.02,5,0.49,78.18
+CA-43307,2024-11-10,2024-11-12,Same Day,CUST-9894,Corporate,United States,Phoenix,Illinois,South,Technology,Tables,Product A,628.55,4,0.09,185.63
+CA-37355,2024-11-11,2024-11-13,Second Class,CUST-2653,Home Office,United States,Houston,Illinois,West,Technology,Phones,Product C,343.09,9,0.18,247.02
+CA-14835,2024-11-12,2024-11-14,Second Class,CUST-3066,Corporate,United States,Houston,California,South,Technology,Phones,Product D,219.1,5,0.36,-82.75
+CA-30159,2024-11-13,2024-11-15,Same Day,CUST-1022,Consumer,United States,New York,Illinois,South,Technology,Storage,Product B,320.05,9,0.48,129.58
+CA-57605,2024-11-14,2024-11-16,Second Class,CUST-3460,Consumer,United States,Houston,Illinois,East,Office Supplies,Binders,Product D,187.05,8,0.08,241.39
+CA-48088,2024-11-15,2024-11-17,Second Class,CUST-6926,Home Office,United States,New York,Texas,South,Office Supplies,Binders,Product D,902.9,4,0.11,59.26
+CA-88752,2024-11-16,2024-11-18,First Class,CUST-7251,Consumer,United States,Phoenix,New York,West,Office Supplies,Binders,Product A,403.22,7,0.11,20.95
+CA-65284,2024-11-17,2024-11-19,First Class,CUST-8295,Home Office,United States,Phoenix,California,South,Office Supplies,Tables,Product D,252.83,5,0.01,218.28
+CA-67043,2024-11-18,2024-11-20,Same Day,CUST-4300,Corporate,United States,Phoenix,Texas,Central,Furniture,Storage,Product D,453.92,4,0.3,34.31
+CA-45547,2024-11-19,2024-11-21,First Class,CUST-7279,Home Office,United States,Chicago,New York,East,Office Supplies,Storage,Product B,327.33,5,0.34,-98.73
+CA-92844,2024-11-20,2024-11-22,First Class,CUST-9553,Home Office,United States,Phoenix,Illinois,East,Technology,Binders,Product D,746.98,5,0.3,283.83
+CA-37532,2024-11-21,2024-11-23,Second Class,CUST-8353,Consumer,United States,Houston,Illinois,Central,Office Supplies,Binders,Product B,971.51,9,0.04,136.85
+CA-44349,2024-11-22,2024-11-24,Standard Class,CUST-4727,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Chairs,Product D,443.65,9,0.03,227.81
+CA-55445,2024-11-23,2024-11-25,First Class,CUST-7272,Home Office,United States,New York,Illinois,Central,Technology,Chairs,Product D,862.42,6,0.11,230.12
+CA-15713,2024-11-24,2024-11-26,Standard Class,CUST-6995,Consumer,United States,Chicago,Arizona,South,Office Supplies,Phones,Product C,570.2,4,0.15,-73.44
+CA-66178,2024-11-25,2024-11-27,First Class,CUST-1514,Consumer,United States,Phoenix,Texas,East,Office Supplies,Phones,Product D,165.66,2,0.39,-31.66
+CA-59407,2024-11-26,2024-11-28,First Class,CUST-1448,Consumer,United States,Phoenix,New York,Central,Office Supplies,Storage,Product B,693.72,3,0.08,24.45
+CA-80340,2024-11-27,2024-11-29,Same Day,CUST-7019,Home Office,United States,Los Angeles,Texas,South,Furniture,Storage,Product B,518.3,2,0.02,28.28
+CA-60990,2024-11-28,2024-11-30,Same Day,CUST-6343,Consumer,United States,Los Angeles,California,Central,Office Supplies,Tables,Product A,654.1,5,0.2,163.51
+CA-85672,2024-11-29,2024-12-01,Same Day,CUST-9033,Home Office,United States,Chicago,Texas,West,Technology,Tables,Product A,890.79,6,0.21,149.25
+CA-75545,2024-11-30,2024-12-02,Standard Class,CUST-3520,Consumer,United States,New York,Illinois,West,Technology,Chairs,Product C,446.03,5,0.23,97.84
+CA-94791,2024-12-01,2024-12-03,Second Class,CUST-4081,Corporate,United States,Phoenix,Illinois,East,Office Supplies,Phones,Product B,902.17,2,0.41,-15.49
+CA-68141,2024-12-02,2024-12-04,First Class,CUST-2428,Consumer,United States,Chicago,Arizona,South,Office Supplies,Chairs,Product B,753.16,5,0.05,52.79
+CA-33793,2024-12-03,2024-12-05,First Class,CUST-4967,Consumer,United States,Houston,Arizona,West,Office Supplies,Chairs,Product B,493.72,9,0.35,117.44
+CA-66570,2024-12-04,2024-12-06,First Class,CUST-7445,Home Office,United States,Houston,Arizona,West,Technology,Phones,Product C,607.19,4,0.17,87.19
+CA-47892,2024-12-05,2024-12-07,Standard Class,CUST-3159,Home Office,United States,Chicago,New York,South,Technology,Tables,Product B,332.33,2,0.15,-49.08
+CA-11015,2024-12-06,2024-12-08,Same Day,CUST-6132,Consumer,United States,Phoenix,Arizona,Central,Furniture,Phones,Product A,983.76,3,0.47,159.8
+CA-71813,2024-12-07,2024-12-09,Second Class,CUST-3547,Corporate,United States,Chicago,New York,South,Furniture,Binders,Product C,670.68,3,0.12,-70.78
+CA-37712,2024-12-08,2024-12-10,Standard Class,CUST-3979,Consumer,United States,Phoenix,Arizona,Central,Furniture,Binders,Product A,53.41,9,0.32,51.28
+CA-18415,2024-12-09,2024-12-11,Same Day,CUST-3649,Consumer,United States,Los Angeles,New York,West,Technology,Binders,Product A,333.36,4,0.14,184.01
+CA-72292,2024-12-10,2024-12-12,Standard Class,CUST-9505,Corporate,United States,Chicago,Texas,West,Furniture,Storage,Product C,627.08,1,0.25,-91.99
+CA-33833,2024-12-11,2024-12-13,Second Class,CUST-4083,Home Office,United States,Phoenix,Texas,West,Office Supplies,Tables,Product D,65.77,1,0.39,127.99
+CA-14158,2024-12-12,2024-12-14,Same Day,CUST-2037,Consumer,United States,Chicago,Illinois,East,Office Supplies,Tables,Product D,33.65,7,0.44,33.81
+CA-72680,2024-12-13,2024-12-15,Standard Class,CUST-4489,Home Office,United States,Chicago,New York,East,Technology,Storage,Product A,455.52,7,0.42,-96.47
+CA-30309,2024-12-14,2024-12-16,Second Class,CUST-8604,Home Office,United States,Phoenix,California,East,Furniture,Chairs,Product D,339.36,2,0.29,-23.85
+CA-16970,2024-12-15,2024-12-17,First Class,CUST-8544,Corporate,United States,Phoenix,Illinois,South,Office Supplies,Binders,Product B,443.92,9,0.12,276.38
+CA-82474,2024-12-16,2024-12-18,Second Class,CUST-3634,Corporate,United States,New York,Texas,West,Technology,Binders,Product C,270.07,9,0.33,108.46
+CA-96704,2024-12-17,2024-12-19,First Class,CUST-4983,Home Office,United States,Chicago,New York,West,Furniture,Chairs,Product A,173.07,5,0.35,298.89
+CA-56540,2024-12-18,2024-12-20,Standard Class,CUST-2778,Consumer,United States,Houston,Arizona,South,Office Supplies,Phones,Product B,692.25,3,0.01,109.93
+CA-30384,2024-12-19,2024-12-21,Same Day,CUST-8902,Home Office,United States,Chicago,California,East,Furniture,Phones,Product D,519.43,3,0.22,117.57
+CA-28017,2024-12-20,2024-12-22,Same Day,CUST-6110,Consumer,United States,Chicago,Texas,South,Technology,Tables,Product B,208.15,3,0.42,56.74
+CA-85880,2024-12-21,2024-12-23,Standard Class,CUST-6189,Consumer,United States,Phoenix,Illinois,East,Furniture,Storage,Product D,326.39,6,0.24,24.02
+CA-18702,2024-12-22,2024-12-24,Same Day,CUST-8378,Corporate,United States,Chicago,New York,West,Technology,Tables,Product A,595.89,4,0.16,0.62
+CA-10384,2024-12-23,2024-12-25,Same Day,CUST-2124,Consumer,United States,Chicago,California,Central,Furniture,Phones,Product B,81.51,8,0.44,37.37
+CA-10404,2024-12-24,2024-12-26,First Class,CUST-1697,Consumer,United States,Houston,New York,East,Office Supplies,Chairs,Product C,155.98,5,0.08,83.94
+CA-50943,2024-12-25,2024-12-27,Standard Class,CUST-3179,Home Office,United States,Phoenix,Arizona,West,Technology,Tables,Product A,82.51,1,0.1,-23.2
+CA-57926,2024-12-26,2024-12-28,Second Class,CUST-6251,Corporate,United States,Chicago,Illinois,West,Technology,Binders,Product B,814.19,9,0.34,-10.05
+CA-39189,2024-12-27,2024-12-29,First Class,CUST-2929,Consumer,United States,Los Angeles,New York,Central,Technology,Binders,Product B,754.89,1,0.18,8.62
+CA-22763,2024-12-28,2024-12-30,Standard Class,CUST-2013,Consumer,United States,New York,Texas,West,Furniture,Chairs,Product D,755.78,6,0.36,79.7
+CA-28384,2024-12-29,2024-12-31,First Class,CUST-1226,Corporate,United States,Houston,Illinois,West,Furniture,Phones,Product A,719.16,1,0.08,161.13
+CA-70100,2024-12-30,2025-01-01,Second Class,CUST-8321,Home Office,United States,Chicago,Texas,East,Office Supplies,Binders,Product A,672.69,3,0.13,242.46
+CA-19860,2024-12-31,2025-01-02,Second Class,CUST-2828,Corporate,United States,Los Angeles,New York,East,Technology,Binders,Product A,482.22,5,0.08,14.85
+CA-90642,2025-01-01,2025-01-03,Standard Class,CUST-8909,Corporate,United States,Chicago,Illinois,Central,Technology,Storage,Product A,645.86,7,0.48,-26.51
+CA-60612,2025-01-02,2025-01-04,Second Class,CUST-6588,Consumer,United States,Chicago,Texas,Central,Furniture,Tables,Product D,47.98,8,0.2,51.54
+CA-33574,2025-01-03,2025-01-05,First Class,CUST-3023,Consumer,United States,Phoenix,Arizona,West,Furniture,Phones,Product C,625.25,9,0.17,257.75
+CA-33524,2025-01-04,2025-01-06,Second Class,CUST-5966,Home Office,United States,Phoenix,Arizona,East,Office Supplies,Tables,Product A,780.1,6,0.01,-96.06
+CA-79172,2025-01-05,2025-01-07,First Class,CUST-6891,Consumer,United States,Phoenix,New York,Central,Office Supplies,Phones,Product D,505.35,9,0.08,171.15
+CA-20916,2025-01-06,2025-01-08,First Class,CUST-2080,Consumer,United States,Los Angeles,Illinois,Central,Furniture,Binders,Product C,363.94,8,0.21,90.86
+CA-14809,2025-01-07,2025-01-09,Second Class,CUST-6036,Corporate,United States,Chicago,California,South,Technology,Storage,Product C,284.65,9,0.03,-35.58
+CA-42201,2025-01-08,2025-01-10,Standard Class,CUST-3563,Consumer,United States,New York,Illinois,Central,Office Supplies,Tables,Product D,646.37,4,0.26,28.41
+CA-63330,2025-01-09,2025-01-11,Same Day,CUST-4292,Home Office,United States,Houston,Arizona,West,Furniture,Binders,Product A,695.87,9,0.23,-10.02
+CA-23456,2025-01-10,2025-01-12,Second Class,CUST-4586,Corporate,United States,Phoenix,Texas,East,Furniture,Phones,Product C,872.26,7,0.38,251.13
+CA-66397,2025-01-11,2025-01-13,First Class,CUST-5431,Home Office,United States,Phoenix,California,Central,Technology,Tables,Product A,348.91,5,0.33,92.75
+CA-48765,2025-01-12,2025-01-14,First Class,CUST-7841,Corporate,United States,Chicago,New York,South,Furniture,Tables,Product A,772.07,5,0.22,125.24
+CA-44816,2025-01-13,2025-01-15,Second Class,CUST-7643,Consumer,United States,Chicago,California,East,Furniture,Binders,Product B,565.74,1,0.11,137.48
+CA-55106,2025-01-14,2025-01-16,Standard Class,CUST-4959,Corporate,United States,Los Angeles,New York,Central,Office Supplies,Tables,Product A,884.01,2,0.36,155.85
+CA-63932,2025-01-15,2025-01-17,Standard Class,CUST-1161,Corporate,United States,Los Angeles,California,South,Furniture,Storage,Product B,532.53,3,0.35,98.22
+CA-27100,2025-01-16,2025-01-18,First Class,CUST-1593,Consumer,United States,Phoenix,New York,Central,Furniture,Storage,Product C,522.45,8,0.08,-92.85
+CA-67091,2025-01-17,2025-01-19,First Class,CUST-4390,Consumer,United States,Chicago,New York,East,Office Supplies,Binders,Product D,582.1,6,0.46,33.89
+CA-31949,2025-01-18,2025-01-20,Standard Class,CUST-6997,Home Office,United States,New York,California,East,Technology,Phones,Product B,751.82,5,0.03,-26.45
+CA-80080,2025-01-19,2025-01-21,Same Day,CUST-7354,Home Office,United States,Houston,California,East,Technology,Binders,Product D,965.04,1,0.03,172.06
+CA-47744,2025-01-20,2025-01-22,Second Class,CUST-1663,Consumer,United States,Chicago,New York,West,Office Supplies,Storage,Product C,82.83,9,0.09,-77.32
+CA-55543,2025-01-21,2025-01-23,First Class,CUST-1541,Consumer,United States,Chicago,Arizona,Central,Office Supplies,Chairs,Product A,62.9,3,0.45,125.52
+CA-46187,2025-01-22,2025-01-24,First Class,CUST-6433,Consumer,United States,Los Angeles,California,West,Technology,Chairs,Product C,938.17,3,0.26,-15.75
+CA-17239,2025-01-23,2025-01-25,Standard Class,CUST-6093,Corporate,United States,Houston,Illinois,East,Technology,Tables,Product D,534.58,2,0.39,279.54
+CA-24489,2025-01-24,2025-01-26,Second Class,CUST-1867,Corporate,United States,Phoenix,Texas,South,Technology,Tables,Product C,618.75,4,0.11,34.22
+CA-68017,2025-01-25,2025-01-27,Standard Class,CUST-9623,Corporate,United States,Chicago,New York,Central,Technology,Chairs,Product A,487.6,2,0.25,30.09
+CA-71877,2025-01-26,2025-01-28,Second Class,CUST-6469,Consumer,United States,Phoenix,New York,West,Technology,Storage,Product C,102.72,9,0.18,269.35
+CA-53125,2025-01-27,2025-01-29,Second Class,CUST-7256,Home Office,United States,Chicago,Texas,Central,Office Supplies,Tables,Product A,770.41,7,0.41,66.94
+CA-59922,2025-01-28,2025-01-30,Second Class,CUST-2169,Consumer,United States,Phoenix,Arizona,South,Furniture,Binders,Product B,749.75,8,0.01,285.14
+CA-42049,2025-01-29,2025-01-31,First Class,CUST-1830,Corporate,United States,Houston,Texas,West,Technology,Binders,Product D,318.59,3,0.12,-90.33
+CA-47131,2025-01-30,2025-02-01,Same Day,CUST-2651,Corporate,United States,Los Angeles,California,East,Technology,Storage,Product A,313.18,6,0.08,22.54
+CA-52944,2025-01-31,2025-02-02,Standard Class,CUST-2136,Consumer,United States,Houston,Texas,West,Furniture,Tables,Product A,839.46,6,0.43,166.48
+CA-83963,2025-02-01,2025-02-03,Same Day,CUST-3810,Consumer,United States,New York,New York,Central,Furniture,Binders,Product C,81.63,1,0.23,256.34
+CA-34285,2025-02-02,2025-02-04,Standard Class,CUST-9667,Corporate,United States,Los Angeles,Texas,Central,Furniture,Tables,Product B,882.29,6,0.2,2.56
+CA-47626,2025-02-03,2025-02-05,Second Class,CUST-2019,Corporate,United States,Houston,Illinois,Central,Furniture,Tables,Product A,264.1,3,0.22,272.19
+CA-52808,2025-02-04,2025-02-06,First Class,CUST-6237,Corporate,United States,New York,California,Central,Furniture,Binders,Product B,597.05,3,0.49,137.65
+CA-98464,2025-02-05,2025-02-07,Same Day,CUST-2283,Consumer,United States,Chicago,Texas,East,Furniture,Chairs,Product B,936.63,3,0.43,220.4
+CA-63871,2025-02-06,2025-02-08,First Class,CUST-1659,Corporate,United States,Chicago,New York,West,Office Supplies,Binders,Product C,681.34,8,0.35,58.88
+CA-29198,2025-02-07,2025-02-09,Standard Class,CUST-3010,Corporate,United States,Phoenix,California,East,Furniture,Storage,Product A,420.29,5,0.15,-15.13
+CA-29758,2025-02-08,2025-02-10,First Class,CUST-9590,Home Office,United States,Los Angeles,New York,East,Furniture,Phones,Product C,692.64,4,0.08,264.49
+CA-25254,2025-02-09,2025-02-11,First Class,CUST-2733,Consumer,United States,Chicago,Arizona,East,Office Supplies,Binders,Product D,350.54,9,0.46,273.25
+CA-54238,2025-02-10,2025-02-12,Same Day,CUST-3125,Home Office,United States,Los Angeles,Illinois,Central,Furniture,Tables,Product D,284.49,9,0.21,99.03
+CA-11252,2025-02-11,2025-02-13,Second Class,CUST-3171,Home Office,United States,Chicago,Arizona,Central,Technology,Tables,Product A,996.72,1,0.14,-97.4
+CA-49764,2025-02-12,2025-02-14,First Class,CUST-9266,Corporate,United States,Phoenix,Illinois,Central,Technology,Binders,Product B,753.28,2,0.24,-56.09
+CA-87709,2025-02-13,2025-02-15,Second Class,CUST-4471,Consumer,United States,Houston,Texas,West,Furniture,Phones,Product A,648.27,8,0.46,129.21
+CA-47441,2025-02-14,2025-02-16,Standard Class,CUST-6624,Corporate,United States,Phoenix,California,South,Office Supplies,Binders,Product A,361.74,5,0.19,-90.49
+CA-63682,2025-02-15,2025-02-17,First Class,CUST-9691,Consumer,United States,New York,Texas,Central,Technology,Phones,Product D,58.67,7,0.28,58.76
+CA-69494,2025-02-16,2025-02-18,Same Day,CUST-9329,Home Office,United States,Chicago,Illinois,West,Office Supplies,Phones,Product D,40.75,1,0.4,21.35
+CA-91317,2025-02-17,2025-02-19,Standard Class,CUST-3097,Consumer,United States,New York,Illinois,Central,Technology,Storage,Product B,558.64,5,0.21,185.74
+CA-75215,2025-02-18,2025-02-20,Standard Class,CUST-6068,Corporate,United States,New York,Illinois,Central,Furniture,Tables,Product B,764.41,3,0.12,-77.77
+CA-88587,2025-02-19,2025-02-21,Same Day,CUST-7397,Corporate,United States,Los Angeles,New York,East,Office Supplies,Tables,Product A,542.01,2,0.5,95.49
+CA-16949,2025-02-20,2025-02-22,First Class,CUST-3757,Corporate,United States,Chicago,California,East,Office Supplies,Phones,Product C,842.38,2,0.48,131.65
+CA-65393,2025-02-21,2025-02-23,First Class,CUST-4920,Consumer,United States,New York,Texas,East,Office Supplies,Tables,Product A,43.09,9,0.42,146.92
+CA-83553,2025-02-22,2025-02-24,Standard Class,CUST-9186,Home Office,United States,Houston,Texas,West,Technology,Chairs,Product B,373.08,4,0.34,62.06
+CA-16941,2025-02-23,2025-02-25,First Class,CUST-2900,Home Office,United States,New York,Arizona,South,Technology,Phones,Product C,244.7,4,0.15,21.75
+CA-35934,2025-02-24,2025-02-26,Second Class,CUST-3610,Consumer,United States,Houston,Illinois,South,Technology,Tables,Product D,452.8,7,0.46,173.0
+CA-33386,2025-02-25,2025-02-27,Same Day,CUST-7900,Corporate,United States,Los Angeles,Illinois,West,Furniture,Chairs,Product B,81.65,2,0.14,239.03
+CA-71886,2025-02-26,2025-02-28,Second Class,CUST-2449,Home Office,United States,New York,Illinois,Central,Technology,Storage,Product B,954.59,3,0.4,177.45
+CA-85745,2025-02-27,2025-03-01,First Class,CUST-9738,Corporate,United States,Phoenix,Texas,West,Furniture,Tables,Product C,231.02,3,0.46,272.84
+CA-93251,2025-02-28,2025-03-02,Standard Class,CUST-6017,Consumer,United States,Los Angeles,Arizona,Central,Office Supplies,Chairs,Product B,923.08,6,0.3,186.91
+CA-63413,2025-03-01,2025-03-03,Same Day,CUST-8999,Corporate,United States,Houston,New York,West,Office Supplies,Binders,Product B,431.63,3,0.4,205.85
+CA-66800,2025-03-02,2025-03-04,First Class,CUST-7052,Home Office,United States,Los Angeles,California,West,Furniture,Binders,Product B,985.67,5,0.4,-32.84
+CA-52318,2025-03-03,2025-03-05,First Class,CUST-3096,Home Office,United States,New York,New York,West,Technology,Chairs,Product B,558.52,4,0.1,67.82
+CA-80173,2025-03-04,2025-03-06,Standard Class,CUST-9895,Corporate,United States,Chicago,Texas,South,Furniture,Phones,Product B,931.52,3,0.33,94.02
+CA-80390,2025-03-05,2025-03-07,Standard Class,CUST-7404,Consumer,United States,Chicago,Illinois,East,Office Supplies,Phones,Product B,15.3,8,0.05,2.52
+CA-62329,2025-03-06,2025-03-08,Second Class,CUST-4331,Corporate,United States,Houston,California,West,Office Supplies,Tables,Product B,750.76,3,0.25,111.42
+CA-53088,2025-03-07,2025-03-09,Same Day,CUST-8462,Consumer,United States,Houston,Texas,South,Furniture,Binders,Product B,904.02,6,0.08,16.32
+CA-49811,2025-03-08,2025-03-10,Same Day,CUST-6105,Corporate,United States,Chicago,Texas,East,Technology,Phones,Product D,148.32,7,0.21,175.0
+CA-65479,2025-03-09,2025-03-11,Standard Class,CUST-3978,Home Office,United States,Houston,Texas,East,Technology,Phones,Product B,105.16,7,0.42,88.12
+CA-95392,2025-03-10,2025-03-12,Second Class,CUST-3839,Consumer,United States,Los Angeles,California,West,Furniture,Binders,Product D,430.33,2,0.49,83.52
+CA-97369,2025-03-11,2025-03-13,Same Day,CUST-4384,Consumer,United States,Phoenix,California,Central,Furniture,Storage,Product D,934.34,3,0.16,293.46
+CA-29963,2025-03-12,2025-03-14,Standard Class,CUST-1685,Consumer,United States,Phoenix,Arizona,Central,Technology,Phones,Product A,546.96,4,0.27,56.98
+CA-65123,2025-03-13,2025-03-15,First Class,CUST-8531,Home Office,United States,Los Angeles,Arizona,Central,Office Supplies,Chairs,Product A,532.18,7,0.26,44.92
+CA-83477,2025-03-14,2025-03-16,Same Day,CUST-5283,Corporate,United States,Phoenix,New York,West,Furniture,Tables,Product D,149.71,2,0.48,27.44
+CA-24388,2025-03-15,2025-03-17,Second Class,CUST-8736,Home Office,United States,New York,California,Central,Technology,Phones,Product D,10.78,3,0.24,257.9
+CA-15569,2025-03-16,2025-03-18,Second Class,CUST-8710,Consumer,United States,Los Angeles,California,South,Technology,Phones,Product B,812.04,7,0.35,98.69
+CA-79836,2025-03-17,2025-03-19,Second Class,CUST-2619,Corporate,United States,Houston,California,South,Office Supplies,Storage,Product A,96.7,7,0.46,140.01
+CA-46586,2025-03-18,2025-03-20,First Class,CUST-7868,Home Office,United States,Los Angeles,Arizona,South,Office Supplies,Chairs,Product C,637.51,3,0.19,-27.67
+CA-22015,2025-03-19,2025-03-21,Same Day,CUST-2431,Consumer,United States,Chicago,Texas,South,Office Supplies,Tables,Product A,915.47,1,0.45,116.38
+CA-55002,2025-03-20,2025-03-22,Same Day,CUST-5713,Consumer,United States,Houston,Illinois,East,Office Supplies,Phones,Product D,216.57,3,0.46,9.86
+CA-16254,2025-03-21,2025-03-23,First Class,CUST-5998,Home Office,United States,Chicago,Arizona,South,Office Supplies,Tables,Product D,668.62,5,0.47,192.25
+CA-27144,2025-03-22,2025-03-24,Same Day,CUST-1162,Home Office,United States,Houston,California,Central,Furniture,Binders,Product B,87.91,7,0.14,233.01
+CA-34214,2025-03-23,2025-03-25,First Class,CUST-2974,Home Office,United States,Phoenix,Arizona,West,Technology,Phones,Product B,607.72,4,0.2,185.92
+CA-90719,2025-03-24,2025-03-26,First Class,CUST-4291,Consumer,United States,Los Angeles,New York,Central,Furniture,Phones,Product A,172.29,1,0.44,192.1
+CA-81774,2025-03-25,2025-03-27,First Class,CUST-9461,Home Office,United States,New York,California,South,Furniture,Binders,Product B,738.59,6,0.18,104.99
+CA-16090,2025-03-26,2025-03-28,Second Class,CUST-1631,Consumer,United States,Houston,New York,East,Furniture,Storage,Product C,308.22,2,0.3,184.85
+CA-21637,2025-03-27,2025-03-29,Same Day,CUST-1905,Home Office,United States,Houston,California,South,Furniture,Phones,Product C,468.76,3,0.06,69.07
+CA-32415,2025-03-28,2025-03-30,First Class,CUST-3014,Consumer,United States,Chicago,Arizona,West,Furniture,Tables,Product B,603.44,4,0.03,160.6
+CA-34071,2025-03-29,2025-03-31,Same Day,CUST-8896,Consumer,United States,Phoenix,Texas,Central,Office Supplies,Chairs,Product C,179.56,6,0.21,3.62
+CA-68243,2025-03-30,2025-04-01,Second Class,CUST-1204,Corporate,United States,Chicago,Illinois,West,Office Supplies,Tables,Product C,744.22,6,0.29,-72.1
+CA-51240,2025-03-31,2025-04-02,First Class,CUST-1581,Home Office,United States,Chicago,New York,West,Technology,Storage,Product A,309.61,7,0.2,65.39
+CA-93807,2025-04-01,2025-04-03,Standard Class,CUST-6675,Home Office,United States,Phoenix,Arizona,West,Furniture,Chairs,Product C,665.75,5,0.29,84.71
+CA-43434,2025-04-02,2025-04-04,Second Class,CUST-6347,Consumer,United States,New York,Texas,Central,Technology,Tables,Product D,166.7,7,0.26,2.56
+CA-79724,2025-04-03,2025-04-05,Standard Class,CUST-3643,Consumer,United States,Chicago,Arizona,South,Office Supplies,Tables,Product D,691.24,2,0.34,191.08
+CA-85697,2025-04-04,2025-04-06,Same Day,CUST-9017,Consumer,United States,Chicago,New York,West,Office Supplies,Binders,Product A,136.91,1,0.32,-70.58
+CA-38732,2025-04-05,2025-04-07,Same Day,CUST-3297,Corporate,United States,Houston,Illinois,Central,Office Supplies,Storage,Product B,431.1,8,0.21,-10.9
+CA-21314,2025-04-06,2025-04-08,Second Class,CUST-1874,Corporate,United States,Phoenix,Arizona,East,Furniture,Binders,Product A,254.73,1,0.21,199.43
+CA-33954,2025-04-07,2025-04-09,Same Day,CUST-6560,Consumer,United States,Los Angeles,California,Central,Furniture,Chairs,Product B,750.89,2,0.07,74.85
+CA-67108,2025-04-08,2025-04-10,Standard Class,CUST-1689,Home Office,United States,New York,Texas,East,Office Supplies,Binders,Product B,269.41,6,0.26,182.11
+CA-97044,2025-04-09,2025-04-11,First Class,CUST-5000,Home Office,United States,New York,Arizona,Central,Technology,Storage,Product B,882.9,1,0.29,126.99
+CA-97505,2025-04-10,2025-04-12,First Class,CUST-1671,Corporate,United States,Phoenix,Texas,South,Technology,Phones,Product B,892.9,3,0.24,280.29
+CA-46668,2025-04-11,2025-04-13,First Class,CUST-8927,Corporate,United States,Houston,California,West,Office Supplies,Phones,Product B,204.48,7,0.16,139.12
+CA-33061,2025-04-12,2025-04-14,Second Class,CUST-2171,Consumer,United States,Houston,Illinois,South,Technology,Chairs,Product A,617.71,8,0.36,-94.05
+CA-89252,2025-04-13,2025-04-15,Same Day,CUST-6591,Home Office,United States,Phoenix,Illinois,Central,Office Supplies,Phones,Product B,96.84,4,0.04,41.15
+CA-49749,2025-04-14,2025-04-16,Standard Class,CUST-7342,Consumer,United States,Houston,California,West,Technology,Binders,Product C,397.62,3,0.46,-42.78
+CA-26907,2025-04-15,2025-04-17,Same Day,CUST-2449,Corporate,United States,New York,Texas,East,Office Supplies,Chairs,Product C,716.19,1,0.01,269.85
+CA-28777,2025-04-16,2025-04-18,Same Day,CUST-3539,Home Office,United States,New York,Arizona,Central,Technology,Storage,Product B,662.83,9,0.48,-58.4
+CA-61745,2025-04-17,2025-04-19,Same Day,CUST-4959,Home Office,United States,Los Angeles,California,West,Furniture,Chairs,Product C,628.45,6,0.23,55.08
+CA-91818,2025-04-18,2025-04-20,First Class,CUST-7285,Corporate,United States,Phoenix,New York,East,Office Supplies,Chairs,Product D,289.72,6,0.21,-9.56
+CA-33624,2025-04-19,2025-04-21,Standard Class,CUST-6432,Consumer,United States,Chicago,Texas,East,Office Supplies,Tables,Product A,384.24,9,0.13,238.69
+CA-33321,2025-04-20,2025-04-22,Standard Class,CUST-5260,Consumer,United States,Chicago,Illinois,South,Technology,Tables,Product A,111.92,1,0.01,23.43
+CA-20488,2025-04-21,2025-04-23,Same Day,CUST-3361,Home Office,United States,Los Angeles,California,Central,Office Supplies,Chairs,Product B,721.83,6,0.14,296.76
+CA-32574,2025-04-22,2025-04-24,First Class,CUST-7164,Corporate,United States,Los Angeles,Illinois,East,Office Supplies,Phones,Product B,508.85,5,0.05,-84.55
+CA-15240,2025-04-23,2025-04-25,First Class,CUST-4670,Home Office,United States,Houston,Texas,West,Office Supplies,Tables,Product D,711.68,6,0.33,-48.69
+CA-53221,2025-04-24,2025-04-26,Standard Class,CUST-2753,Corporate,United States,Los Angeles,Illinois,East,Furniture,Storage,Product B,256.45,8,0.16,-10.14
+CA-20478,2025-04-25,2025-04-27,First Class,CUST-9100,Consumer,United States,Los Angeles,California,East,Furniture,Binders,Product C,331.19,5,0.38,224.44
+CA-65645,2025-04-26,2025-04-28,First Class,CUST-2938,Corporate,United States,Chicago,Texas,South,Technology,Tables,Product D,340.87,2,0.1,251.41
+CA-29262,2025-04-27,2025-04-29,First Class,CUST-9562,Consumer,United States,Houston,New York,South,Furniture,Chairs,Product C,35.48,2,0.45,-71.42
+CA-62796,2025-04-28,2025-04-30,Second Class,CUST-6976,Corporate,United States,Los Angeles,California,West,Technology,Phones,Product A,347.64,5,0.26,-87.02
+CA-14432,2025-04-29,2025-05-01,Same Day,CUST-7588,Home Office,United States,Los Angeles,Arizona,South,Furniture,Binders,Product C,805.27,3,0.06,197.82
+CA-74291,2025-04-30,2025-05-02,Standard Class,CUST-9616,Consumer,United States,Houston,California,East,Technology,Tables,Product A,898.33,3,0.2,-46.66
+CA-89104,2025-05-01,2025-05-03,Standard Class,CUST-7304,Home Office,United States,Phoenix,Texas,East,Furniture,Phones,Product C,523.04,8,0.1,-46.8
+CA-69399,2025-05-02,2025-05-04,Second Class,CUST-8345,Home Office,United States,Houston,California,South,Furniture,Phones,Product A,460.95,7,0.1,-91.05
+CA-89714,2025-05-03,2025-05-05,Same Day,CUST-8875,Consumer,United States,Chicago,New York,East,Technology,Phones,Product B,40.52,1,0.25,-80.08
+CA-60428,2025-05-04,2025-05-06,Standard Class,CUST-7633,Consumer,United States,Phoenix,New York,East,Office Supplies,Chairs,Product C,880.41,5,0.34,5.47
+CA-97731,2025-05-05,2025-05-07,First Class,CUST-1597,Home Office,United States,New York,Arizona,West,Office Supplies,Storage,Product A,22.88,9,0.46,-74.0
+CA-10302,2025-05-06,2025-05-08,Standard Class,CUST-4062,Home Office,United States,Houston,Illinois,South,Furniture,Phones,Product C,945.3,4,0.25,47.55
+CA-92558,2025-05-07,2025-05-09,First Class,CUST-3336,Home Office,United States,Chicago,Texas,East,Technology,Binders,Product D,494.32,1,0.48,233.11
+CA-10055,2025-05-08,2025-05-10,Second Class,CUST-1572,Home Office,United States,Phoenix,Texas,South,Office Supplies,Tables,Product B,348.52,8,0.47,30.53
+CA-18717,2025-05-09,2025-05-11,First Class,CUST-8521,Consumer,United States,Houston,Illinois,West,Technology,Binders,Product A,924.98,5,0.43,191.13
+CA-38699,2025-05-10,2025-05-12,Standard Class,CUST-7171,Consumer,United States,Los Angeles,New York,South,Office Supplies,Chairs,Product D,34.15,2,0.25,-62.44
+CA-83686,2025-05-11,2025-05-13,Standard Class,CUST-8097,Home Office,United States,Houston,New York,East,Technology,Chairs,Product C,585.61,1,0.07,163.75
+CA-77661,2025-05-12,2025-05-14,Standard Class,CUST-3090,Corporate,United States,New York,California,South,Furniture,Binders,Product D,553.44,3,0.11,26.7
+CA-54247,2025-05-13,2025-05-15,Second Class,CUST-7566,Corporate,United States,Houston,Arizona,East,Technology,Storage,Product C,227.13,9,0.32,199.9
+CA-26748,2025-05-14,2025-05-16,Second Class,CUST-5624,Consumer,United States,Phoenix,Arizona,East,Office Supplies,Chairs,Product B,434.6,1,0.21,-45.5
+CA-14621,2025-05-15,2025-05-17,Same Day,CUST-2633,Home Office,United States,Phoenix,Arizona,East,Furniture,Chairs,Product D,655.74,4,0.07,259.15
+CA-25034,2025-05-16,2025-05-18,Standard Class,CUST-2517,Home Office,United States,Houston,California,West,Technology,Binders,Product B,729.86,8,0.24,-2.97
+CA-15126,2025-05-17,2025-05-19,First Class,CUST-4648,Consumer,United States,Phoenix,Arizona,South,Office Supplies,Chairs,Product A,10.71,8,0.01,41.26
+CA-15122,2025-05-18,2025-05-20,Second Class,CUST-2537,Corporate,United States,Los Angeles,Illinois,West,Furniture,Storage,Product C,937.48,8,0.37,280.07
+CA-28030,2025-05-19,2025-05-21,Standard Class,CUST-4137,Corporate,United States,Houston,California,South,Technology,Storage,Product C,172.88,8,0.04,131.39
+CA-92838,2025-05-20,2025-05-22,Standard Class,CUST-7985,Corporate,United States,Los Angeles,Illinois,West,Office Supplies,Storage,Product B,241.24,4,0.31,46.31
+CA-94717,2025-05-21,2025-05-23,Second Class,CUST-1097,Consumer,United States,Los Angeles,California,Central,Technology,Tables,Product B,270.84,8,0.4,279.84
+CA-65658,2025-05-22,2025-05-24,Same Day,CUST-4750,Corporate,United States,Chicago,Arizona,East,Technology,Storage,Product A,47.44,9,0.07,31.63
+CA-48638,2025-05-23,2025-05-25,Second Class,CUST-9535,Consumer,United States,Houston,Illinois,East,Furniture,Storage,Product D,131.82,7,0.26,-62.05
+CA-77067,2025-05-24,2025-05-26,Second Class,CUST-9174,Consumer,United States,Phoenix,Illinois,West,Furniture,Tables,Product C,986.49,2,0.39,298.74
+CA-98869,2025-05-25,2025-05-27,First Class,CUST-9103,Home Office,United States,Los Angeles,Illinois,Central,Office Supplies,Phones,Product C,322.06,9,0.13,7.14
+CA-44674,2025-05-26,2025-05-28,First Class,CUST-6413,Corporate,United States,Chicago,California,East,Furniture,Chairs,Product A,124.15,8,0.08,240.5
+CA-45854,2025-05-27,2025-05-29,Same Day,CUST-5666,Consumer,United States,Houston,Texas,South,Office Supplies,Storage,Product A,115.92,5,0.17,-33.78
+CA-56271,2025-05-28,2025-05-30,Standard Class,CUST-1610,Corporate,United States,Houston,Arizona,West,Technology,Chairs,Product B,722.27,3,0.28,192.54
+CA-83688,2025-05-29,2025-05-31,Second Class,CUST-2727,Corporate,United States,New York,Illinois,East,Technology,Binders,Product B,856.02,7,0.29,109.78
+CA-48518,2025-05-30,2025-06-01,Same Day,CUST-2854,Home Office,United States,New York,Texas,East,Office Supplies,Chairs,Product D,264.38,2,0.07,292.36
+CA-20267,2025-05-31,2025-06-02,First Class,CUST-6055,Corporate,United States,Los Angeles,Arizona,West,Technology,Tables,Product A,30.7,3,0.23,121.13
+CA-11062,2025-06-01,2025-06-03,Second Class,CUST-3324,Home Office,United States,New York,Arizona,West,Furniture,Chairs,Product D,230.86,9,0.13,-89.99
+CA-60448,2025-06-02,2025-06-04,Standard Class,CUST-6774,Consumer,United States,Los Angeles,Illinois,South,Technology,Chairs,Product A,65.95,4,0.42,141.55
+CA-16229,2025-06-03,2025-06-05,First Class,CUST-7519,Corporate,United States,Phoenix,Illinois,South,Furniture,Chairs,Product C,112.36,4,0.16,-41.87
+CA-66793,2025-06-04,2025-06-06,First Class,CUST-2749,Consumer,United States,Los Angeles,California,East,Office Supplies,Phones,Product A,437.19,3,0.42,219.42
+CA-57915,2025-06-05,2025-06-07,First Class,CUST-1781,Corporate,United States,New York,Texas,East,Office Supplies,Phones,Product A,237.62,5,0.21,242.63
+CA-14632,2025-06-06,2025-06-08,Same Day,CUST-8548,Consumer,United States,Phoenix,Texas,West,Technology,Binders,Product C,520.79,3,0.36,92.84
+CA-13596,2025-06-07,2025-06-09,Standard Class,CUST-7823,Corporate,United States,New York,Illinois,East,Technology,Tables,Product A,260.96,9,0.26,213.29
+CA-16168,2025-06-08,2025-06-10,Second Class,CUST-3105,Corporate,United States,Los Angeles,Arizona,East,Furniture,Chairs,Product D,941.13,3,0.31,-41.96
+CA-17561,2025-06-09,2025-06-11,Same Day,CUST-4867,Corporate,United States,Chicago,Illinois,West,Furniture,Chairs,Product B,906.88,2,0.2,96.83
+CA-83794,2025-06-10,2025-06-12,Same Day,CUST-8193,Corporate,United States,Houston,Arizona,East,Technology,Chairs,Product B,571.14,5,0.38,57.58
+CA-92152,2025-06-11,2025-06-13,Same Day,CUST-5976,Corporate,United States,New York,Arizona,East,Technology,Chairs,Product D,360.88,6,0.21,144.53
+CA-36734,2025-06-12,2025-06-14,First Class,CUST-3113,Corporate,United States,Los Angeles,Illinois,Central,Office Supplies,Phones,Product C,387.34,1,0.23,-82.21
+CA-16371,2025-06-13,2025-06-15,Standard Class,CUST-6879,Corporate,United States,Phoenix,New York,South,Office Supplies,Binders,Product A,417.73,6,0.26,200.85
+CA-36069,2025-06-14,2025-06-16,Same Day,CUST-4970,Corporate,United States,New York,Texas,West,Office Supplies,Storage,Product D,730.3,3,0.42,-68.35
+CA-89905,2025-06-15,2025-06-17,Second Class,CUST-8264,Corporate,United States,New York,Arizona,Central,Technology,Tables,Product B,457.12,4,0.33,162.59
+CA-22910,2025-06-16,2025-06-18,Standard Class,CUST-2577,Consumer,United States,Houston,Arizona,South,Technology,Chairs,Product B,858.16,6,0.17,-92.62
+CA-83479,2025-06-17,2025-06-19,Second Class,CUST-3274,Home Office,United States,Los Angeles,New York,South,Technology,Binders,Product D,944.65,8,0.34,232.76
+CA-87735,2025-06-18,2025-06-20,Standard Class,CUST-5869,Corporate,United States,Chicago,California,South,Office Supplies,Storage,Product B,342.59,9,0.32,-30.12
+CA-91264,2025-06-19,2025-06-21,Second Class,CUST-7744,Home Office,United States,Phoenix,New York,Central,Technology,Binders,Product D,565.09,6,0.47,106.2
+CA-33275,2025-06-20,2025-06-22,First Class,CUST-3426,Corporate,United States,Los Angeles,New York,Central,Furniture,Phones,Product B,104.11,7,0.42,4.6
+CA-82274,2025-06-21,2025-06-23,Same Day,CUST-6546,Corporate,United States,Phoenix,Arizona,South,Technology,Storage,Product D,208.46,5,0.32,189.06
+CA-91449,2025-06-22,2025-06-24,Second Class,CUST-7852,Consumer,United States,New York,Texas,East,Technology,Binders,Product A,419.33,9,0.17,28.54
+CA-70004,2025-06-23,2025-06-25,Standard Class,CUST-3551,Consumer,United States,Houston,New York,East,Technology,Phones,Product A,214.14,4,0.39,189.84
+CA-72981,2025-06-24,2025-06-26,Same Day,CUST-7411,Home Office,United States,Houston,California,Central,Technology,Binders,Product A,877.79,6,0.29,13.95
+CA-94659,2025-06-25,2025-06-27,Same Day,CUST-1007,Consumer,United States,Chicago,Illinois,Central,Technology,Binders,Product A,166.7,5,0.49,200.99
+CA-64553,2025-06-26,2025-06-28,Standard Class,CUST-9087,Consumer,United States,Houston,New York,Central,Furniture,Storage,Product B,461.1,1,0.12,-87.76
+CA-58447,2025-06-27,2025-06-29,Second Class,CUST-3555,Home Office,United States,New York,New York,South,Furniture,Phones,Product C,609.64,5,0.04,13.32
+CA-44529,2025-06-28,2025-06-30,First Class,CUST-1475,Consumer,United States,Chicago,California,East,Technology,Chairs,Product D,694.95,5,0.03,99.45
+CA-85703,2025-06-29,2025-07-01,First Class,CUST-6416,Corporate,United States,Los Angeles,Texas,Central,Office Supplies,Tables,Product C,389.24,9,0.32,-81.98
+CA-86090,2025-06-30,2025-07-02,Second Class,CUST-9676,Home Office,United States,Houston,New York,Central,Technology,Storage,Product B,870.41,1,0.47,-25.59
+CA-27260,2025-07-01,2025-07-03,Same Day,CUST-8239,Home Office,United States,Chicago,New York,West,Technology,Phones,Product B,572.64,5,0.0,273.81
+CA-13812,2025-07-02,2025-07-04,Same Day,CUST-7710,Corporate,United States,New York,Texas,South,Technology,Binders,Product C,445.11,7,0.36,290.73
+CA-38024,2025-07-03,2025-07-05,Same Day,CUST-6000,Consumer,United States,Phoenix,California,West,Office Supplies,Phones,Product C,76.57,6,0.33,195.9
+CA-68656,2025-07-04,2025-07-06,Same Day,CUST-5654,Home Office,United States,Phoenix,New York,East,Office Supplies,Tables,Product B,470.04,6,0.37,0.88
+CA-37285,2025-07-05,2025-07-07,Second Class,CUST-9078,Home Office,United States,New York,Texas,West,Office Supplies,Tables,Product B,822.53,7,0.18,4.21
+CA-11605,2025-07-06,2025-07-08,Same Day,CUST-7063,Corporate,United States,New York,New York,West,Furniture,Chairs,Product D,618.4,6,0.41,158.32
+CA-81158,2025-07-07,2025-07-09,Standard Class,CUST-3285,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Chairs,Product A,833.84,5,0.02,-52.96
+CA-82303,2025-07-08,2025-07-10,Same Day,CUST-6223,Consumer,United States,Chicago,Arizona,South,Furniture,Tables,Product A,499.07,5,0.38,279.32
+CA-37139,2025-07-09,2025-07-11,First Class,CUST-7971,Home Office,United States,Phoenix,Illinois,East,Furniture,Storage,Product D,127.28,9,0.13,-10.07
+CA-87149,2025-07-10,2025-07-12,Same Day,CUST-4525,Consumer,United States,New York,New York,West,Office Supplies,Storage,Product C,23.5,8,0.24,299.85
+CA-66138,2025-07-11,2025-07-13,Second Class,CUST-3822,Consumer,United States,Houston,California,South,Office Supplies,Binders,Product B,310.19,4,0.41,98.29
+CA-86125,2025-07-12,2025-07-14,First Class,CUST-5943,Corporate,United States,Los Angeles,Arizona,East,Office Supplies,Chairs,Product C,701.01,4,0.14,208.57
+CA-23918,2025-07-13,2025-07-15,Second Class,CUST-7530,Home Office,United States,Houston,Illinois,Central,Furniture,Binders,Product A,792.36,5,0.09,-99.13
+CA-95655,2025-07-14,2025-07-16,Second Class,CUST-1258,Home Office,United States,Houston,Texas,West,Technology,Chairs,Product A,302.8,3,0.34,255.5
+CA-37446,2025-07-15,2025-07-17,First Class,CUST-1282,Home Office,United States,New York,California,East,Office Supplies,Tables,Product C,500.7,8,0.27,8.0
+CA-23046,2025-07-16,2025-07-18,Second Class,CUST-2898,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Storage,Product A,426.91,7,0.26,167.17
+CA-34818,2025-07-17,2025-07-19,Second Class,CUST-5135,Corporate,United States,Chicago,Texas,Central,Office Supplies,Storage,Product B,416.42,5,0.13,222.54
+CA-14324,2025-07-18,2025-07-20,Same Day,CUST-7629,Corporate,United States,Houston,New York,East,Furniture,Tables,Product D,239.04,3,0.02,-34.34
+CA-86323,2025-07-19,2025-07-21,Standard Class,CUST-4200,Corporate,United States,Phoenix,Texas,South,Furniture,Binders,Product C,145.01,5,0.21,77.0
+CA-19111,2025-07-20,2025-07-22,Second Class,CUST-6110,Corporate,United States,Chicago,Illinois,East,Technology,Binders,Product B,204.72,3,0.05,97.53
+CA-48110,2025-07-21,2025-07-23,Second Class,CUST-8167,Home Office,United States,Houston,Illinois,South,Office Supplies,Phones,Product B,64.78,5,0.45,24.85
+CA-26389,2025-07-22,2025-07-24,Second Class,CUST-1612,Consumer,United States,Chicago,New York,East,Furniture,Chairs,Product A,206.15,1,0.02,92.7
+CA-51427,2025-07-23,2025-07-25,Same Day,CUST-1687,Home Office,United States,Phoenix,Texas,South,Technology,Binders,Product B,19.11,6,0.22,27.02
+CA-89579,2025-07-24,2025-07-26,Standard Class,CUST-4690,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Tables,Product C,630.99,4,0.03,44.3
+CA-38746,2025-07-25,2025-07-27,First Class,CUST-9804,Corporate,United States,Phoenix,New York,Central,Furniture,Binders,Product B,323.21,4,0.05,167.73
+CA-97886,2025-07-26,2025-07-28,Same Day,CUST-3307,Consumer,United States,New York,Texas,Central,Office Supplies,Storage,Product D,973.41,8,0.33,153.04
+CA-10117,2025-07-27,2025-07-29,Same Day,CUST-8133,Home Office,United States,Chicago,New York,East,Office Supplies,Chairs,Product B,201.78,2,0.32,-7.09
+CA-94471,2025-07-28,2025-07-30,Standard Class,CUST-7509,Home Office,United States,Los Angeles,California,Central,Furniture,Phones,Product B,352.37,4,0.02,258.99
+CA-23234,2025-07-29,2025-07-31,Standard Class,CUST-6906,Consumer,United States,Chicago,Illinois,West,Furniture,Chairs,Product D,364.26,2,0.0,245.12
+CA-63441,2025-07-30,2025-08-01,Same Day,CUST-3591,Corporate,United States,Chicago,California,Central,Furniture,Storage,Product B,18.37,1,0.04,103.63
+CA-10846,2025-07-31,2025-08-02,First Class,CUST-8183,Corporate,United States,Houston,Arizona,South,Office Supplies,Storage,Product B,840.82,3,0.38,73.3
+CA-20954,2025-08-01,2025-08-03,Same Day,CUST-6248,Home Office,United States,New York,Arizona,South,Office Supplies,Storage,Product A,41.67,8,0.29,50.74
+CA-89239,2025-08-02,2025-08-04,Standard Class,CUST-9766,Consumer,United States,Chicago,Arizona,South,Technology,Storage,Product C,940.78,6,0.02,182.91
+CA-56514,2025-08-03,2025-08-05,First Class,CUST-6108,Corporate,United States,Phoenix,New York,East,Office Supplies,Tables,Product A,893.15,7,0.24,168.67
+CA-98236,2025-08-04,2025-08-06,Standard Class,CUST-4604,Corporate,United States,Phoenix,Texas,West,Furniture,Phones,Product C,540.17,2,0.36,-21.53
+CA-16469,2025-08-05,2025-08-07,First Class,CUST-1669,Home Office,United States,Houston,California,Central,Office Supplies,Storage,Product D,548.16,6,0.43,168.58
+CA-40105,2025-08-06,2025-08-08,Second Class,CUST-5364,Corporate,United States,New York,California,West,Technology,Storage,Product D,657.24,8,0.47,0.97
+CA-52101,2025-08-07,2025-08-09,Standard Class,CUST-8329,Consumer,United States,New York,California,West,Technology,Binders,Product D,393.18,8,0.16,-92.58
+CA-74323,2025-08-08,2025-08-10,Standard Class,CUST-2283,Home Office,United States,Phoenix,California,South,Furniture,Phones,Product C,650.75,4,0.07,179.68
+CA-68067,2025-08-09,2025-08-11,Same Day,CUST-1923,Home Office,United States,Los Angeles,Arizona,South,Furniture,Chairs,Product C,54.32,6,0.12,157.92
+CA-59376,2025-08-10,2025-08-12,Standard Class,CUST-2125,Consumer,United States,Houston,California,South,Technology,Phones,Product C,63.51,5,0.39,64.32
+CA-55587,2025-08-11,2025-08-13,Standard Class,CUST-2529,Home Office,United States,Houston,Texas,East,Technology,Phones,Product D,462.66,9,0.49,110.27
+CA-46976,2025-08-12,2025-08-14,Second Class,CUST-9438,Corporate,United States,Phoenix,Arizona,West,Technology,Phones,Product C,554.13,8,0.23,278.87
+CA-77584,2025-08-13,2025-08-15,Standard Class,CUST-4711,Corporate,United States,Phoenix,California,West,Furniture,Storage,Product B,888.94,2,0.15,138.08
+CA-88477,2025-08-14,2025-08-16,Second Class,CUST-9004,Consumer,United States,Los Angeles,New York,East,Technology,Storage,Product A,113.61,7,0.21,163.15
+CA-52533,2025-08-15,2025-08-17,Second Class,CUST-7274,Corporate,United States,Los Angeles,Illinois,East,Technology,Tables,Product D,824.42,7,0.15,-74.44
+CA-11828,2025-08-16,2025-08-18,Second Class,CUST-4864,Consumer,United States,New York,Illinois,East,Furniture,Chairs,Product A,217.95,1,0.13,-33.6
+CA-11917,2025-08-17,2025-08-19,Second Class,CUST-8833,Consumer,United States,Houston,Illinois,West,Office Supplies,Binders,Product B,400.14,1,0.3,20.38
+CA-30618,2025-08-18,2025-08-20,First Class,CUST-7788,Corporate,United States,Houston,Arizona,West,Office Supplies,Phones,Product C,323.44,4,0.01,115.75
+CA-42254,2025-08-19,2025-08-21,Same Day,CUST-1226,Consumer,United States,Phoenix,California,South,Technology,Chairs,Product A,406.15,5,0.13,210.64
+CA-57362,2025-08-20,2025-08-22,First Class,CUST-1264,Corporate,United States,New York,Arizona,South,Office Supplies,Chairs,Product B,158.99,4,0.33,28.5
+CA-30128,2025-08-21,2025-08-23,Standard Class,CUST-1645,Home Office,United States,Houston,Texas,West,Office Supplies,Tables,Product B,508.53,7,0.02,42.55
+CA-69383,2025-08-22,2025-08-24,First Class,CUST-8544,Home Office,United States,New York,New York,South,Office Supplies,Binders,Product A,803.63,3,0.04,2.46
+CA-75545,2025-08-23,2025-08-25,First Class,CUST-6569,Consumer,United States,New York,New York,East,Office Supplies,Phones,Product D,447.12,7,0.15,1.84
+CA-92180,2025-08-24,2025-08-26,Standard Class,CUST-3990,Corporate,United States,Phoenix,Illinois,Central,Technology,Binders,Product A,495.71,8,0.44,279.55
+CA-97958,2025-08-25,2025-08-27,Standard Class,CUST-3504,Corporate,United States,New York,Illinois,South,Office Supplies,Tables,Product D,850.28,6,0.38,154.18
+CA-19865,2025-08-26,2025-08-28,Standard Class,CUST-1587,Home Office,United States,Los Angeles,Illinois,West,Office Supplies,Storage,Product C,709.0,6,0.01,-37.64
+CA-12219,2025-08-27,2025-08-29,First Class,CUST-5079,Home Office,United States,Los Angeles,California,South,Furniture,Chairs,Product D,495.55,8,0.25,188.9
+CA-49809,2025-08-28,2025-08-30,First Class,CUST-4348,Corporate,United States,Chicago,Texas,South,Technology,Phones,Product C,265.12,8,0.14,188.81
+CA-15287,2025-08-29,2025-08-31,Standard Class,CUST-7299,Consumer,United States,Phoenix,Texas,South,Furniture,Storage,Product A,886.08,7,0.32,166.59
+CA-44387,2025-08-30,2025-09-01,Same Day,CUST-4831,Home Office,United States,Chicago,Texas,Central,Furniture,Tables,Product C,581.25,6,0.36,-46.11
+CA-18512,2025-08-31,2025-09-02,Same Day,CUST-9381,Consumer,United States,Los Angeles,Texas,East,Technology,Binders,Product B,228.94,6,0.43,63.2
+CA-11342,2025-09-01,2025-09-03,Second Class,CUST-2715,Consumer,United States,Chicago,Illinois,West,Office Supplies,Chairs,Product C,276.43,6,0.24,-57.3
+CA-73076,2025-09-02,2025-09-04,Standard Class,CUST-7450,Home Office,United States,Phoenix,New York,Central,Furniture,Phones,Product D,805.1,8,0.5,226.65
+CA-29216,2025-09-03,2025-09-05,Second Class,CUST-6433,Consumer,United States,Phoenix,Illinois,West,Technology,Storage,Product D,53.7,1,0.49,162.07
+CA-89767,2025-09-04,2025-09-06,Same Day,CUST-2098,Consumer,United States,New York,Texas,West,Office Supplies,Storage,Product D,992.17,5,0.44,102.88
+CA-36614,2025-09-05,2025-09-07,Second Class,CUST-8096,Corporate,United States,Houston,Illinois,West,Technology,Chairs,Product C,139.05,3,0.29,37.21
+CA-46258,2025-09-06,2025-09-08,Standard Class,CUST-3326,Consumer,United States,New York,Texas,Central,Furniture,Binders,Product D,798.11,8,0.2,-26.3
+CA-52078,2025-09-07,2025-09-09,Standard Class,CUST-7416,Corporate,United States,Phoenix,Arizona,East,Office Supplies,Tables,Product D,400.83,6,0.18,-57.42
+CA-93524,2025-09-08,2025-09-10,Standard Class,CUST-7980,Home Office,United States,Los Angeles,New York,West,Office Supplies,Binders,Product B,497.29,2,0.01,287.7
+CA-22219,2025-09-09,2025-09-11,First Class,CUST-7763,Home Office,United States,Los Angeles,Arizona,East,Technology,Binders,Product C,881.84,7,0.12,-20.14
+CA-10235,2025-09-10,2025-09-12,Second Class,CUST-2674,Corporate,United States,New York,California,East,Office Supplies,Binders,Product B,418.78,7,0.36,-76.05
+CA-52929,2025-09-11,2025-09-13,Same Day,CUST-8950,Home Office,United States,Phoenix,Illinois,South,Furniture,Chairs,Product D,542.12,5,0.3,284.67
+CA-77444,2025-09-12,2025-09-14,Same Day,CUST-9915,Consumer,United States,Los Angeles,California,Central,Furniture,Chairs,Product D,58.81,8,0.46,119.58
+CA-18567,2025-09-13,2025-09-15,Same Day,CUST-7049,Consumer,United States,Phoenix,Illinois,Central,Furniture,Tables,Product D,12.32,5,0.03,218.66
+CA-80792,2025-09-14,2025-09-16,First Class,CUST-2089,Consumer,United States,Los Angeles,Arizona,South,Technology,Binders,Product C,252.35,1,0.08,-82.49
+CA-75441,2025-09-15,2025-09-17,First Class,CUST-5578,Home Office,United States,Phoenix,Texas,South,Office Supplies,Chairs,Product A,683.78,9,0.39,126.78
+CA-94555,2025-09-16,2025-09-18,Standard Class,CUST-1155,Consumer,United States,Chicago,Texas,East,Office Supplies,Tables,Product D,130.05,4,0.18,59.28
+CA-83698,2025-09-17,2025-09-19,Same Day,CUST-2958,Home Office,United States,Phoenix,Illinois,West,Office Supplies,Tables,Product D,122.62,2,0.06,208.79
+CA-15415,2025-09-18,2025-09-20,First Class,CUST-7344,Consumer,United States,Phoenix,Texas,Central,Furniture,Binders,Product D,416.85,4,0.5,-84.63
+CA-46159,2025-09-19,2025-09-21,Standard Class,CUST-6779,Corporate,United States,New York,Arizona,West,Office Supplies,Phones,Product D,651.36,9,0.39,60.68
+CA-53925,2025-09-20,2025-09-22,Same Day,CUST-7144,Home Office,United States,Chicago,Texas,West,Furniture,Binders,Product C,714.95,2,0.2,219.63
+CA-15951,2025-09-21,2025-09-23,Second Class,CUST-6063,Home Office,United States,Houston,Arizona,South,Office Supplies,Phones,Product A,186.67,4,0.41,109.08
+CA-97388,2025-09-22,2025-09-24,Standard Class,CUST-4830,Consumer,United States,New York,California,West,Furniture,Tables,Product A,88.79,2,0.34,120.02
+CA-18007,2025-09-23,2025-09-25,First Class,CUST-9831,Home Office,United States,Houston,Arizona,East,Office Supplies,Chairs,Product A,940.99,5,0.39,-61.13
+CA-51832,2025-09-24,2025-09-26,First Class,CUST-7659,Home Office,United States,Los Angeles,New York,South,Technology,Storage,Product D,268.06,3,0.41,-47.07
+CA-68596,2025-09-25,2025-09-27,Standard Class,CUST-1441,Corporate,United States,Houston,New York,West,Technology,Tables,Product D,854.81,2,0.04,170.8
+CA-40523,2025-09-26,2025-09-28,Standard Class,CUST-7040,Corporate,United States,Phoenix,New York,South,Furniture,Chairs,Product A,864.86,9,0.31,170.02
